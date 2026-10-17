@@ -2,7 +2,7 @@
 
 **香港繁體中文 · 本地法規與統計 · 香港例子 · 附官方來源**
 
-[🌐 開啟可搜尋網站](index.html)　｜　[查看原項目](https://github.com/eternity4719/HowToLiveBetter)　｜　[報告資料錯誤](https://github.com/dr-data/HowToLiveBetter/issues)
+[🌐 香港版搜尋網站（啟用 Pages 後）](https://dr-data.github.io/HowToLiveBetter/)　｜　[🖥️ 查看網頁程式碼](index.html)　｜　[查看原項目](https://github.com/eternity4719/HowToLiveBetter)　｜　[報告資料錯誤](https://github.com/dr-data/HowToLiveBetter/issues)
 
 這是 [HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 的**香港本地化版本**，以香港日常情況重寫內容，並非直接把內地法律、物價和津貼換成繁體字。
 
@@ -51,6 +51,22 @@
 優先引用香港政府、法定機構、醫管局、勞工處、積金局、房屋委員會、政府統計處、個人資料私隱專員公署及消費者委員會。所有政策必須註明**適用地區、日期、資格及限制**。統計數據必須註明統計年度、單位及口徑，不得把內地總數直接替換成香港人口比例。
 
 如未找到可比的香港統計，應明確註明香港數據暫缺，不要杜撰數字。科學研究在中國內地進行不代表研究必須刪除，但需要清楚說明研究人群與香港讀者之間的適用限制。
+
+## 使用搜尋網站
+
+截至 2026 年 10 月 18 日，此儲存庫的 GitHub Pages 尚未啟用。要讓其他人直接使用搜尋網站，請在 GitHub 開啟此儲存庫的 **Settings → Pages**，於 **Build and deployment** 選擇 **Deploy from a branch**，設定 **main** 及 **/(root)**，然後儲存。
+
+啟用後，香港版入口應為 **https://dr-data.github.io/HowToLiveBetter/**，預設顯示香港繁體中文；可在網址加上 `?edition=cn` 閱讀保留的中國內地原版。請留意部署網址以 GitHub Pages 設定頁實際提供者為準。
+
+亦可在本地用下列命令預覽（不須安裝網站依賴）：
+
+```bash
+git clone https://github.com/dr-data/HowToLiveBetter.git
+cd HowToLiveBetter
+python -m http.server 8000
+```
+
+然後在瀏覽器開啟 `http://localhost:8000/`。直接雙擊 `hk/index.html` 可能因瀏覽器限制而無法讀取 `data.json`。
 
 ## 維護內容
 
