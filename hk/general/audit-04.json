@@ -1,957 +1,557 @@
 {
-  "batch": 4,
+  "updated": "2026-10-18",
   "items": [
     {
-      "id": "G25-001",
-      "chapter": "25",
+      "id": "G13-001",
+      "topic": "13-紧急情况",
       "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-002",
-      "chapter": "25",
+      "id": "G13-002",
+      "topic": "13-紧急情况",
       "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-003",
-      "chapter": "25",
+      "id": "G13-003",
+      "topic": "13-紧急情况",
       "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-004",
-      "chapter": "25",
+      "id": "G13-004",
+      "topic": "13-紧急情况",
       "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-005",
-      "chapter": "25",
+      "id": "G13-005",
+      "topic": "13-紧急情况",
       "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-006",
-      "chapter": "25",
+      "id": "G13-006",
+      "topic": "13-紧急情况",
       "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-007",
-      "chapter": "25",
+      "id": "G13-007",
+      "topic": "13-紧急情况",
       "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-008",
-      "chapter": "25",
+      "id": "G13-008",
+      "topic": "13-紧急情况",
       "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-009",
-      "chapter": "25",
+      "id": "G13-009",
+      "topic": "13-紧急情况",
       "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-010",
-      "chapter": "25",
+      "id": "G13-010",
+      "topic": "13-紧急情况",
       "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-011",
-      "chapter": "25",
+      "id": "G13-011",
+      "topic": "13-紧急情况",
       "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G25-012",
-      "chapter": "25",
+      "id": "G13-012",
+      "topic": "13-紧急情况",
       "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/25-人走了以后要办什么.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G26-001",
-      "chapter": "26",
-      "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-002",
-      "chapter": "26",
-      "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-003",
-      "chapter": "26",
-      "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-004",
-      "chapter": "26",
-      "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-005",
-      "chapter": "26",
-      "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-006",
-      "chapter": "26",
-      "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-007",
-      "chapter": "26",
-      "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-008",
-      "chapter": "26",
-      "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-009",
-      "chapter": "26",
-      "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-010",
-      "chapter": "26",
-      "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-011",
-      "chapter": "26",
-      "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-012",
-      "chapter": "26",
-      "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
-    },
-    {
-      "id": "G26-013",
-      "chapter": "26",
+      "id": "G13-013",
+      "topic": "13-紧急情况",
       "original_index": 13,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/26-做一个网站或平台.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-001",
-      "chapter": "27",
-      "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-002",
-      "chapter": "27",
-      "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-003",
-      "chapter": "27",
-      "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-004",
-      "chapter": "27",
-      "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-005",
-      "chapter": "27",
-      "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-006",
-      "chapter": "27",
-      "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-007",
-      "chapter": "27",
-      "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-008",
-      "chapter": "27",
-      "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-009",
-      "chapter": "27",
-      "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-010",
-      "chapter": "27",
-      "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-011",
-      "chapter": "27",
-      "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-012",
-      "chapter": "27",
-      "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-013",
-      "chapter": "27",
-      "original_index": 13,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
-    },
-    {
-      "id": "G27-014",
-      "chapter": "27",
+      "id": "G13-014",
+      "topic": "13-紧急情况",
       "original_index": 14,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-015",
-      "chapter": "27",
+      "id": "G13-015",
+      "topic": "13-紧急情况",
       "original_index": 15,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-016",
-      "chapter": "27",
+      "id": "G13-016",
+      "topic": "13-紧急情况",
       "original_index": 16,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-017",
-      "chapter": "27",
+      "id": "G13-017",
+      "topic": "13-紧急情况",
       "original_index": 17,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-018",
-      "chapter": "27",
+      "id": "G13-018",
+      "topic": "13-紧急情况",
       "original_index": 18,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-019",
-      "chapter": "27",
+      "id": "G13-019",
+      "topic": "13-紧急情况",
       "original_index": 19,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G27-020",
-      "chapter": "27",
+      "id": "G13-020",
+      "topic": "13-紧急情况",
       "original_index": 20,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/27-怀孕和生产.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G28-001",
-      "chapter": "28",
-      "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-002",
-      "chapter": "28",
-      "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-003",
-      "chapter": "28",
-      "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-004",
-      "chapter": "28",
-      "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-005",
-      "chapter": "28",
-      "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-006",
-      "chapter": "28",
-      "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-007",
-      "chapter": "28",
-      "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-008",
-      "chapter": "28",
-      "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-009",
-      "chapter": "28",
-      "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G28-010",
-      "chapter": "28",
-      "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/28-别为了外形把身体搞坏.md"
-    },
-    {
-      "id": "G29-001",
-      "chapter": "29",
-      "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-002",
-      "chapter": "29",
-      "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-003",
-      "chapter": "29",
-      "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-004",
-      "chapter": "29",
-      "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-005",
-      "chapter": "29",
-      "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-006",
-      "chapter": "29",
-      "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-007",
-      "chapter": "29",
-      "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-008",
-      "chapter": "29",
-      "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-009",
-      "chapter": "29",
-      "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-010",
-      "chapter": "29",
-      "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-011",
-      "chapter": "29",
-      "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-012",
-      "chapter": "29",
-      "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-013",
-      "chapter": "29",
-      "original_index": 13,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G29-014",
-      "chapter": "29",
-      "original_index": 14,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/29-遭遇重大打击之后.md"
-    },
-    {
-      "id": "G30-001",
-      "chapter": "30",
-      "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-002",
-      "chapter": "30",
-      "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-003",
-      "chapter": "30",
-      "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-004",
-      "chapter": "30",
-      "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-005",
-      "chapter": "30",
-      "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-006",
-      "chapter": "30",
-      "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-007",
-      "chapter": "30",
-      "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-008",
-      "chapter": "30",
-      "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-009",
-      "chapter": "30",
-      "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-010",
-      "chapter": "30",
-      "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-011",
-      "chapter": "30",
-      "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-012",
-      "chapter": "30",
-      "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-013",
-      "chapter": "30",
-      "original_index": 13,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-014",
-      "chapter": "30",
-      "original_index": 14,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-015",
-      "chapter": "30",
-      "original_index": 15,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-016",
-      "chapter": "30",
-      "original_index": 16,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-017",
-      "chapter": "30",
-      "original_index": 17,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-018",
-      "chapter": "30",
-      "original_index": 18,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-019",
-      "chapter": "30",
-      "original_index": 19,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-020",
-      "chapter": "30",
-      "original_index": 20,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
-    },
-    {
-      "id": "G30-021",
-      "chapter": "30",
+      "id": "G13-021",
+      "topic": "13-紧急情况",
       "original_index": 21,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需醫護或專業人員審核",
-      "source_file": "book/30-上学以后的孩子.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-001",
-      "chapter": "31",
+      "id": "G13-022",
+      "topic": "13-紧急情况",
+      "original_index": 22,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-023",
+      "topic": "13-紧急情况",
+      "original_index": 23,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-024",
+      "topic": "13-紧急情况",
+      "original_index": 24,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-025",
+      "topic": "13-紧急情况",
+      "original_index": 25,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-026",
+      "topic": "13-紧急情况",
+      "original_index": 26,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-027",
+      "topic": "13-紧急情况",
+      "original_index": 27,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G13-028",
+      "topic": "13-紧急情况",
+      "original_index": 28,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-029",
+      "topic": "13-紧急情况",
+      "original_index": 29,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-030",
+      "topic": "13-紧急情况",
+      "original_index": 30,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G13-031",
+      "topic": "13-紧急情况",
+      "original_index": 31,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-032",
+      "topic": "13-紧急情况",
+      "original_index": 32,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-033",
+      "topic": "13-紧急情况",
+      "original_index": 33,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G13-034",
+      "topic": "13-紧急情况",
+      "original_index": 34,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-035",
+      "topic": "13-紧急情况",
+      "original_index": 35,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-036",
+      "topic": "13-紧急情况",
+      "original_index": 36,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-037",
+      "topic": "13-紧急情况",
+      "original_index": 37,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-038",
+      "topic": "13-紧急情况",
+      "original_index": 38,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-039",
+      "topic": "13-紧急情况",
+      "original_index": 39,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G13-040",
+      "topic": "13-紧急情况",
+      "original_index": 40,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-041",
+      "topic": "13-紧急情况",
+      "original_index": 41,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-042",
+      "topic": "13-紧急情况",
+      "original_index": 42,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-043",
+      "topic": "13-紧急情况",
+      "original_index": 43,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-044",
+      "topic": "13-紧急情况",
+      "original_index": 44,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-045",
+      "topic": "13-紧急情况",
+      "original_index": 45,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-046",
+      "topic": "13-紧急情况",
+      "original_index": 46,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-047",
+      "topic": "13-紧急情况",
+      "original_index": 47,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G13-048",
+      "topic": "13-紧急情况",
+      "original_index": 48,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G14-001",
+      "topic": "14-账号与信息安全",
       "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-002",
-      "chapter": "31",
+      "id": "G14-002",
+      "topic": "14-账号与信息安全",
       "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-003",
-      "chapter": "31",
+      "id": "G14-003",
+      "topic": "14-账号与信息安全",
       "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-004",
-      "chapter": "31",
+      "id": "G14-004",
+      "topic": "14-账号与信息安全",
       "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-005",
-      "chapter": "31",
+      "id": "G14-005",
+      "topic": "14-账号与信息安全",
       "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-006",
-      "chapter": "31",
+      "id": "G14-006",
+      "topic": "14-账号与信息安全",
       "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-007",
-      "chapter": "31",
+      "id": "G14-007",
+      "topic": "14-账号与信息安全",
       "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-008",
-      "chapter": "31",
+      "id": "G14-008",
+      "topic": "14-账号与信息安全",
       "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-009",
-      "chapter": "31",
+      "id": "G14-009",
+      "topic": "14-账号与信息安全",
       "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-010",
-      "chapter": "31",
+      "id": "G14-010",
+      "topic": "14-账号与信息安全",
       "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-011",
-      "chapter": "31",
+      "id": "G14-011",
+      "topic": "14-账号与信息安全",
       "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-012",
-      "chapter": "31",
+      "id": "G14-012",
+      "topic": "14-账号与信息安全",
       "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-013",
-      "chapter": "31",
+      "id": "G15-001",
+      "topic": "15-租房与买房",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-002",
+      "topic": "15-租房与买房",
+      "original_index": 2,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-003",
+      "topic": "15-租房与买房",
+      "original_index": 3,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-004",
+      "topic": "15-租房与买房",
+      "original_index": 4,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-005",
+      "topic": "15-租房与买房",
+      "original_index": 5,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-006",
+      "topic": "15-租房与买房",
+      "original_index": 6,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-007",
+      "topic": "15-租房与买房",
+      "original_index": 7,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-008",
+      "topic": "15-租房与买房",
+      "original_index": 8,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-009",
+      "topic": "15-租房与买房",
+      "original_index": 9,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-010",
+      "topic": "15-租房与买房",
+      "original_index": 10,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-011",
+      "topic": "15-租房与买房",
+      "original_index": 11,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G15-012",
+      "topic": "15-租房与买房",
+      "original_index": 12,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G15-013",
+      "topic": "15-租房与买房",
       "original_index": 13,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G31-014",
-      "chapter": "31",
+      "id": "G15-014",
+      "topic": "15-租房与买房",
       "original_index": 14,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G31-015",
-      "chapter": "31",
+      "id": "G15-015",
+      "topic": "15-租房与买房",
       "original_index": 15,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G31-016",
-      "chapter": "31",
+      "id": "G15-016",
+      "topic": "15-租房与买房",
       "original_index": 16,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G31-017",
-      "chapter": "31",
+      "id": "G15-017",
+      "topic": "15-租房与买房",
       "original_index": 17,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/31-十八岁之后有哪几条路.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G32-001",
-      "chapter": "32",
+      "id": "G15-018",
+      "topic": "15-租房与买房",
+      "original_index": 18,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G16-001",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 1,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-002",
-      "chapter": "32",
+      "id": "G16-002",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 2,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G32-003",
-      "chapter": "32",
+      "id": "G16-003",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 3,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-004",
-      "chapter": "32",
+      "id": "G16-004",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 4,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-005",
-      "chapter": "32",
+      "id": "G16-005",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 5,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G32-006",
-      "chapter": "32",
+      "id": "G16-006",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 6,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-007",
-      "chapter": "32",
+      "id": "G16-007",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 7,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-008",
-      "chapter": "32",
+      "id": "G16-008",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 8,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-009",
-      "chapter": "32",
+      "id": "G16-009",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 9,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-010",
-      "chapter": "32",
+      "id": "G16-010",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 10,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-011",
-      "chapter": "32",
+      "id": "G16-011",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 11,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G32-012",
-      "chapter": "32",
+      "id": "G16-012",
+      "topic": "16-得了慢性病之后怎么活",
       "original_index": 12,
-      "status": "已獨立改寫成香港通用內容草稿",
-      "review_status": "需本地法例與服務審核",
-      "source_file": "book/32-出国留学.md"
+      "status": "一般化建議"
+    },
+    {
+      "id": "G16-013",
+      "topic": "16-得了慢性病之后怎么活",
+      "original_index": 13,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G16-014",
+      "topic": "16-得了慢性病之后怎么活",
+      "original_index": 14,
+      "status": "一般化建議"
     }
   ]
 }
