@@ -11,10 +11,10 @@ const check=process.argv.includes('--check');
 const issues=[];
 if(!Array.isArray(source.items)||source.items.length!==765)issues.push('預期 765 項');
 const seen=new Set();
-const geo=/(?:中國|中国|內地|内地|大陸|大陆|人民幣|人民币|國務院|国务院|全國|全国|公安|社保|醫保|医保|公積金|公积金|123\\d{2,3})/;
+const geo=/(?:中國|中国|內地|内地|大陸|大陆|人民幣|人民币|國務院|国务院|全國|全国|公安|社保|醫保|医保|公積金|公积金|123\d{2,3})/;
 for(const item of source.items||[]){
   if(seen.has(item.id))issues.push('重複 ID '+item.id);seen.add(item.id);
-  if(!/^G\\d{2}-\\d{3}$/.test(item.id))issues.push('無效 ID '+item.id);
+  if(!/^G\d{2}-\d{3}$/.test(item.id))issues.push('無效 ID '+item.id);
   for(const k of ['title','advice','example','review_status','reference_url','reference_label']){
     if(!item[k]||typeof item[k]!=='string')issues.push('缺少 '+item.id+'.'+k);
   }
@@ -47,7 +47,7 @@ function chapter(no){
     '',
     '**使用聲明：** 此處只供一般教育與參考。醫療、法律、社會福利、就業及財務事宜，請在採取行動前按最新官方資訊及合資格專業人士的建議確認。',
     ''
-  ].join('\\n');
+  ].join('\n');
 }
 const folder=path.join(dir,'book');
 if(!check)fs.mkdirSync(folder,{recursive:true});
@@ -57,5 +57,5 @@ for(let n=1;n<=labels.length;n++){
   if(check){if(!fs.existsSync(dest)||fs.readFileSync(dest,'utf8')!==expected)issues.push('章節需更新 '+dest)}
   else fs.writeFileSync(dest,expected,'utf8');
 }
-if(issues.length){console.error(issues.join('\\n'));process.exitCode=1}
+if(issues.length){console.error(issues.join('\n'));process.exitCode=1}
 else console.log((check?'已核對':'已寫入')+' '+labels.length+' 章，'+source.items.length+' 項');
