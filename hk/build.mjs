@@ -19,6 +19,7 @@ for(const item of source.items||[]){
     if(!item[field]||typeof item[field]!=='string')problems.push(item.id+' 缺少 '+field);
   }
   if(!/^https:\/\//.test(item.url||''))problems.push(item.id+' 來源 URL 格式有誤');
+  if (/(?:中國|中国|內地|内地|大陸|大陆|人民幣|人民币|高考|ICP\s*備案|ICP\s*备案)/.test([item.title,item.advice,item.example].join(' '))) problems.push(item.id+'：香港版案例不應引用其他地區制度作比較');
 }
 if(problems.length){console.error(problems.join('\n'));process.exit(1)}
 function renderTopic(key){
