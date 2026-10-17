@@ -1,0 +1,692 @@
+{
+  "edition": "香港繁體中文",
+  "version": "0.1",
+  "updated": "2026-10-18",
+  "status": "香港本地化初版：獨立編寫及逐項附上官方來源；不代表全部上游條目已完成翻譯",
+  "categories": {
+    "安全應急": "🚨",
+    "醫療健康": "🏥",
+    "勞工權益": "💼",
+    "社會保障": "🤝",
+    "理財稅務": "💰",
+    "住屋租務": "🏠",
+    "防騙消費": "🛡️",
+    "創業私隱": "💻",
+    "婚姻育兒": "👶",
+    "教育技能": "📚",
+    "旅遊出境": "✈️",
+    "香港數據": "📊"
+  },
+  "items": [
+    {
+      "id": "HK001",
+      "category": "安全應急",
+      "title": "有即時危險先打 999",
+      "advice": "遇到嚴重傷病、火警或正在發生的罪案，立即致電香港緊急求助電話 999，清楚說明地點及情況。",
+      "example": "例如在港鐵站有人昏倒且沒有正常呼吸，先呼救及按現場急救指示處理，並由旁人致電 999。",
+      "source": "香港警務處",
+      "url": "https://www.police.gov.hk/ppp_en/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK002",
+      "category": "安全應急",
+      "title": "一般政府查詢使用 1823",
+      "advice": "非緊急政府服務問題，可透過 1823 查詢或反映；不要用 999 查詢一般行政手續。",
+      "example": "例如查詢公屋、屋宇維修或部門投訴轉介途徑。",
+      "source": "1823 政府服務熱線",
+      "url": "https://www.1823.gov.hk/en/about-us",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK003",
+      "category": "安全應急",
+      "title": "颱風前查閱天文台官方警告",
+      "advice": "跟進熱帶氣旋警告、暴雨及相關提示，預早檢查窗戶和排水，並依官方及僱主安排作出決定。",
+      "example": "例如八號信號可能影響交通；應查看實際公告，而非單靠社交平台截圖。",
+      "source": "香港天文台",
+      "url": "https://www.hko.gov.hk/en/informtc/tcService.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK004",
+      "category": "安全應急",
+      "title": "懷疑詐騙可致電 18222",
+      "advice": "如收到可疑投資、網購或假冒機構要求轉賬，可先致電防騙易熱線 18222 查詢。",
+      "example": "例如對方聲稱是銀行職員，要你轉移資金至安全戶口。",
+      "source": "香港警務處防騙協調中心",
+      "url": "https://www.police.gov.hk/ppp_en/04_crime_matters/adcc/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK005",
+      "category": "安全應急",
+      "title": "急救時先確認個人安全",
+      "advice": "先查看火、車流、觸電或墮物等風險，避免救人時自己也受傷；有危險時交由緊急服務處理。",
+      "example": "例如道路交通意外現場，先確保環境安全並報警。",
+      "source": "香港警務處",
+      "url": "https://www.police.gov.hk/ppp_en/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK006",
+      "category": "醫療健康",
+      "title": "2026 年公院急症室一般收費 400 元",
+      "advice": "醫管局由 2026 年 1 月起調整合資格人士急症室收費；分流第一及第二類患者獲豁免，勿因收費延誤真正急症。",
+      "example": "例如非緊急病徵先考慮家庭醫生；胸痛、嚴重氣促或中風徵狀則即時求助。",
+      "source": "醫院管理局：2026 年公營醫療收費",
+      "url": "https://www.ha.org.hk/ho/corpcomm/fncr/index-en.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK007",
+      "category": "醫療健康",
+      "title": "醫療費困難可查詢減免",
+      "advice": "合資格及有經濟困難的公營醫療使用者，可向醫管局查詢醫療費用減免機制。",
+      "example": "例如長期覆診支出影響基本生活，可請醫院醫務社工評估申請途徑。",
+      "source": "醫院管理局：醫療收費與費用減免",
+      "url": "https://www.ha.org.hk/visitor/fees_and_charges.asp?lang=ENG",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK008",
+      "category": "醫療健康",
+      "title": "留意一萬元公營醫療年度收費上限",
+      "advice": "2026 年起醫管局對符合條件的合資格病人設立指定醫療費用每曆年一萬元上限，須按計劃要求提出申請。",
+      "example": "例如住院及長期治療後，整理符合計劃的收據再向醫管局核實。",
+      "source": "醫院管理局：每年一萬元收費上限",
+      "url": "https://www.ha.org.hk/haho/ho/frm/asc_en.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK009",
+      "category": "醫療健康",
+      "title": "45 歲以上可查慢病篩查資格",
+      "advice": "香港居民年滿 45 歲、且沒有已知糖尿病或高血壓病史者，可了解慢性疾病共同治理計劃的篩查資格。",
+      "example": "例如未有糖尿病診斷但有家庭風險，可向地區康健中心查詢。",
+      "source": "基層醫療署：慢性疾病共同治理計劃",
+      "url": "https://www.primaryhealthcare.gov.hk/cdcc/en/hp/eligibility.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK010",
+      "category": "醫療健康",
+      "title": "認清公立醫院與內地醫保不同",
+      "advice": "香港公營醫療主要依醫管局資格及收費安排，不應套用內地跨省報銷或醫保起付線。",
+      "example": "例如內地文章的住院報銷八成不是香港醫管局的統一規則。",
+      "source": "醫院管理局：2026 年公營醫療收費",
+      "url": "https://www.ha.org.hk/ho/corpcomm/fncr/index-en.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK011",
+      "category": "醫療健康",
+      "title": "每次覆診保留藥物和報告清單",
+      "advice": "保留覆診日期、藥物名稱、過敏史和主要檢查結果；轉換醫生或遇急症時方便核對。",
+      "example": "例如把醫管局覆診資訊及私人醫生處方整理在同一份紀錄。",
+      "source": "醫院管理局：醫療收費與費用減免",
+      "url": "https://www.ha.org.hk/visitor/fees_and_charges.asp?lang=ENG",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK012",
+      "category": "勞工權益",
+      "title": "核對 2026 年最低時薪 43.1 元",
+      "advice": "香港法定最低工資自 2026 年 5 月 1 日起為每小時港幣 43.1 元，須按法例及實際工時計算。",
+      "example": "例如同一工資期工作 100 小時，法定最低工資額原則上為港幣 4,310 元，仍須按規定確認工時及工資構成。",
+      "source": "勞工處：法定最低工資",
+      "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK013",
+      "category": "勞工權益",
+      "title": "2026 年共有 15 天法定假日",
+      "advice": "香港在 2026 年增加復活節星期一為法定假日；不要以內地的調休或法定節日表計算。",
+      "example": "例如重陽節在 2026 年 10 月 18 日適逢星期日，補假要按照相關規則處理。",
+      "source": "勞工處：2026 年法定假日",
+      "url": "https://www.labour.gov.hk/eng/news/latest_holidays2026.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK014",
+      "category": "勞工權益",
+      "title": "有薪年假由 7 天逐步增至 14 天",
+      "advice": "符合連續性合約及服務年期規定的僱員，每服務滿 12 個月有法定有薪年假，按年資由 7 天遞增至最多 14 天。",
+      "example": "例如服務滿一年有 7 天；服務滿九年或以上為 14 天。",
+      "source": "勞工處：有薪年假",
+      "url": "https://www.labour.gov.hk/eng/faq/cap57i_whole.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK015",
+      "category": "勞工權益",
+      "title": "連續性合約新規於 2026 年生效",
+      "advice": "2026 年 1 月 18 日起，相關條件為連續受僱四星期，並符合每週至少 17 小時或指定四星期累計 68 小時的規定。",
+      "example": "例如兼職者某星期不足 17 小時，仍可核對該星期連同前三星期的 68 小時條件。",
+      "source": "勞工處：連續性合約新規定",
+      "url": "https://www.labour.gov.hk/eng/labour/Continuous_Contract_EduTool.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK016",
+      "category": "勞工權益",
+      "title": "欠薪要保留記錄及早求助",
+      "advice": "一般工資須在工資期結束後不遲於七天支付；欠薪時記下工時、薪酬、合約及銀行入賬紀錄。",
+      "example": "例如僱主拖欠一個糧期，不要只聽口頭承諾，先核對紀錄並向勞工處查詢。",
+      "source": "勞工處：工資支付",
+      "url": "https://www.labour.gov.hk/eng/faq/cap57c_whole.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK017",
+      "category": "勞工權益",
+      "title": "離職補償不可套用內地 N 或 2N",
+      "advice": "香港遣散費及長期服務金有自己的資格、計算方法和上限，不能直接套用內地解除勞動合同的補償公式。",
+      "example": "例如一般月薪僱員的法定計算以月薪三分之二乘合資格年資作基礎，另受上限及規則約束。",
+      "source": "勞工處：取消強積金對沖安排",
+      "url": "https://www.op.labour.gov.hk/en/what-is-abolition.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK018",
+      "category": "勞工權益",
+      "title": "2025 年後強積金對沖規則已改",
+      "advice": "取消僱主強積金強制性供款抵銷遣散費及長期服務金安排已於 2025 年 5 月 1 日生效，之前的服務年資有過渡安排。",
+      "example": "例如跨越 2025 年 5 月 1 日的僱傭年期，應分兩部分核算。",
+      "source": "勞工處：取消強積金對沖安排",
+      "url": "https://www.op.labour.gov.hk/en/what-is-abolition.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK019",
+      "category": "勞工權益",
+      "title": "工傷應及時通知僱主並求醫",
+      "advice": "遇工傷盡快通知僱主並保留醫療證明；僱主一般須在意外後 14 天內向勞工處呈報，致命事故一般為七天。",
+      "example": "例如搬運物品受傷，保留事發時間、工作指示與醫生紙，確認僱主已按規定申報。",
+      "source": "勞工處：僱員補償條例",
+      "url": "https://www.labour.gov.hk/eng/faq/cap282b_whole.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK020",
+      "category": "勞工權益",
+      "title": "檢查強積金每月供款",
+      "advice": "一般情況下僱員與僱主各按有關入息的 5% 供款，月薪供款上限各為港幣 1,500 元，並有低收入及豁免等規則。",
+      "example": "例如月薪 20,000 元，雙方通常各供款港幣 1,000 元。",
+      "source": "積金局：僱員強制性供款",
+      "url": "https://www.mpfa.org.hk/en/mpf-system/mandatory-contributions/employees",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK021",
+      "category": "勞工權益",
+      "title": "留意 14 週產假及 5 天侍產假",
+      "advice": "香港合資格僱員的法定產假為 14 週，侍產假為五天；有薪資格及通知要求須分別核對。",
+      "example": "例如懷孕後提前向僱主通知，保留醫療證明及預產期紀錄。",
+      "source": "勞工處：產假",
+      "url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK022",
+      "category": "社會保障",
+      "title": "經濟困難先了解綜援",
+      "advice": "香港沒有直接對應內地失業保險金的普遍制度；遇到無力維持基本生活，可查詢綜合社會保障援助計劃的居港、資產及入息規定。",
+      "example": "例如失業後沒有足夠儲蓄支付基本開支，聯絡住所所屬社會保障辦事處。",
+      "source": "社會福利署：綜援計劃",
+      "url": "https://www.swd.gov.hk/en/pubsvc/socsecu/comprehens/cssa/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK023",
+      "category": "社會保障",
+      "title": "申請綜援須接受資格審核",
+      "advice": "綜援申請涉及居住要求、經濟審查及適用於健全成人的附加規定，不是失業便自動合資格。",
+      "example": "例如申請前整理家庭成員、銀行紀錄、租金及收入文件。",
+      "source": "社會福利署：綜援計劃",
+      "url": "https://www.swd.gov.hk/en/pubsvc/socsecu/comprehens/cssa/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK024",
+      "category": "社會保障",
+      "title": "在職低收入家庭可查在職津貼",
+      "advice": "在職家庭津貼按家庭收入、資產、工作時數及其他規則審批，與一般失業援助不同。",
+      "example": "例如非單親家庭達每月 144 小時工作時數者，可進一步查看收入及資產門檻。",
+      "source": "在職家庭及學生資助事務處：在職家庭津貼",
+      "url": "https://www.wfsfaa.gov.hk/en/wfao/wfas/eligibility.php",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK025",
+      "category": "社會保障",
+      "title": "欠薪與綜援申請要分清",
+      "advice": "欠薪可循勞工處渠道追討；短期生活困難則可另向社會福利署查詢援助，不應只等僱主補發薪金。",
+      "example": "例如被公司拖欠兩個月薪金，分別準備僱傭證據及家庭財務資料。",
+      "source": "社會福利署：綜援計劃",
+      "url": "https://www.swd.gov.hk/en/pubsvc/socsecu/comprehens/cssa/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK026",
+      "category": "社會保障",
+      "title": "求助政府部門可先問 1823",
+      "advice": "不清楚由哪個部門負責時，可用 1823 查詢政府服務的正確入口；個別情況應由主管部門判斷。",
+      "example": "例如對多種津貼資格有疑問，先釐清主管機關及最新申請方式。",
+      "source": "1823 政府服務熱線",
+      "url": "https://www.1823.gov.hk/en/about-us",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK027",
+      "category": "理財稅務",
+      "title": "銀行存款保障現為每人每銀行 80 萬元",
+      "advice": "香港存款保障計劃保障合資格存款，上限為每名存戶於每間計劃成員銀行港幣 800,000 元。",
+      "example": "例如同一銀行兩個普通存款戶口須合併計算，不能當成各有 80 萬元保障。",
+      "source": "香港金融管理局：存款保障",
+      "url": "https://www.hkma.gov.hk/eng/smart-consumers/deposits/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK028",
+      "category": "理財稅務",
+      "title": "股票及虛擬資產不屬存款保障",
+      "advice": "存款保障計劃不涵蓋股票、基金、虛擬資產及部分結構性存款等非合資格存款產品。",
+      "example": "例如高息結構性投資產品不可只因由銀行銷售便當作受存款保障。",
+      "source": "香港金融管理局：存款保障",
+      "url": "https://www.hkma.gov.hk/eng/smart-consumers/deposits/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK029",
+      "category": "理財稅務",
+      "title": "薪俸稅免稅額按課稅年度核對",
+      "advice": "香港採薪俸稅及免稅額制度，與內地個人所得稅的專項附加扣除不同，並會按年度更新。",
+      "example": "例如填報 2025／26 或 2026／27 課稅年度時，先到稅務局查對應年度的免稅額。",
+      "source": "稅務局：2026 至 27 年度財政預算案稅務措施",
+      "url": "https://www.ird.gov.hk/eng/faq/budget2026_27.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK030",
+      "category": "理財稅務",
+      "title": "訂定財務預算要用港元成本",
+      "advice": "將收入、租金、車資及醫療支出以港元列帳，避免用內地的人民幣物價範例估計香港生活成本。",
+      "example": "例如分析月入港幣 20,000 元的開支，交通及住屋應以自己居住區域報價計算。",
+      "source": "政府統計處：2025 年就業收入中位數",
+      "url": "https://www.censtatd.gov.hk/en/web_table.html?id=210-06314",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK031",
+      "category": "理財稅務",
+      "title": "投資前先分辨保障、回報與風險",
+      "advice": "銀行存款保障與投資回報是兩回事，未能確認產品性質及承擔風險前，不要單憑推銷員說法作決定。",
+      "example": "例如定期存款及股票基金應分開檢視，並閱讀條款。",
+      "source": "香港金融管理局：存款保障",
+      "url": "https://www.hkma.gov.hk/eng/smart-consumers/deposits/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK032",
+      "category": "住屋租務",
+      "title": "公屋申請先查 2026 年入息及資產限額",
+      "advice": "房委會自 2026 年 4 月起公布新限額，家庭人數不同，要求亦不同，需同時查其他申請資格。",
+      "example": "例如四人家庭入息限額每月港幣 32,020 元、資產限額港幣 608,000 元，另須符合其他條件。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK033",
+      "category": "住屋租務",
+      "title": "不要把內地公積金房貸制度套用香港",
+      "advice": "香港住宅按揭、印花稅與政府資助出售房屋均按本地制度處理，並無內地住房公積金貸款同一制度。",
+      "example": "例如比較居屋與私人樓宇時，先查房委會及本地銀行當期安排。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK034",
+      "category": "住屋租務",
+      "title": "租樓前計算總住屋開支",
+      "advice": "除月租外，核對按金、水電煤、管理費、代理佣金與通勤時間，預留突發維修或搬遷預算。",
+      "example": "例如月租港幣 12,000 元的單位，不應只用租金一項決定是否負擔得起。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK035",
+      "category": "住屋租務",
+      "title": "公屋資格並非只看工資",
+      "advice": "入息及資產限額會因家庭人口及其他條件而異，請按房委會官方表格核對，切勿參照其他城市的公租房標準。",
+      "example": "例如住戶有長者的家庭可能適用不同資產規則。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK036",
+      "category": "住屋租務",
+      "title": "每年重新確認住房政策",
+      "advice": "公屋收入及資產限額、資助出售房屋申請日期等可能每年更新，避免使用舊年份表格。",
+      "example": "例如先檢查表格的生效日期是否 2026 年 4 月或之後。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK037",
+      "category": "防騙消費",
+      "title": "購買前識別假冒機構轉帳要求",
+      "advice": "如果有人冒充政府、銀行或執法部門，要求轉到所謂安全戶口，應中止交易並向防騙易 18222 核實。",
+      "example": "例如聲稱你的身份證涉及洗錢，要求即時轉款以示清白。",
+      "source": "香港警務處防騙協調中心",
+      "url": "https://www.police.gov.hk/ppp_en/04_crime_matters/adcc/",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK038",
+      "category": "防騙消費",
+      "title": "支付大額預繳前評估停業風險",
+      "advice": "健身、美容或補習服務的大額預繳可能有商戶倒閉風險，先核對退款及取消條款。",
+      "example": "例如購買三年會籍前，計算若服務中止會損失的未用餘額。",
+      "source": "香港消費者委員會：投訴及查詢",
+      "url": "https://www.consumer.org.hk/en/complaints-and-services/complaint-and-enquiry-channels",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK039",
+      "category": "防騙消費",
+      "title": "商品與宣傳不符可找消委會調停",
+      "advice": "先保存廣告截圖、交易紀錄及與商戶協商的訊息；協商不成可向消委會提出投訴。",
+      "example": "例如網購收到與圖片明顯不同的貨品，先向商戶提出合理處理要求。",
+      "source": "香港消費者委員會：投訴及查詢",
+      "url": "https://www.consumer.org.hk/en/complaints-and-services/complaint-and-enquiry-channels",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK040",
+      "category": "防騙消費",
+      "title": "不要誤以為消委會能直接判賠",
+      "advice": "消委會主要協助調停消費糾紛，並非裁判機關，個別法律權利要另行查詢。",
+      "example": "例如商戶拒絕退費，消委會可協助協商，但不能保證取回款項。",
+      "source": "香港消費者委員會：投訴及查詢",
+      "url": "https://www.consumer.org.hk/en/complaints-and-services/complaint-and-enquiry-channels",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK041",
+      "category": "防騙消費",
+      "title": "比較服務價格同時核對實際條款",
+      "advice": "利用消委會公開比較及投訴資料作起點，但個別價格、品牌和結果仍要自行核對。",
+      "example": "例如比較奶粉、油價或健身服務，不要只看宣傳折扣。",
+      "source": "香港消費者委員會：投訴統計",
+      "url": "https://www.consumer.org.hk/en/complaints-and-services",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK042",
+      "category": "創業私隱",
+      "title": "開業後一個月內處理商業登記",
+      "advice": "一般在香港經營業務者須在開業後一個月內辦妥適用商業登記，個別業務另需牌照。",
+      "example": "例如開始承接收費網站開發服務，不可因為是網上生意就完全忽略本地登記。",
+      "source": "稅務局：商業登記",
+      "url": "https://www.ird.gov.hk/eng/tax/bre_gen.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK043",
+      "category": "創業私隱",
+      "title": "商業登記證不等於經營牌照",
+      "advice": "商業登記用於稅務及商業紀錄，不能代替食肆、教育、金融等活動可能另需的監管許可。",
+      "example": "例如打算開設外賣餐飲業務，商業登記以外還須核查相關牌照。",
+      "source": "稅務局：商業登記",
+      "url": "https://www.ird.gov.hk/eng/tax/bre_gen.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK044",
+      "category": "創業私隱",
+      "title": "有限公司可使用公司註冊處一站式服務",
+      "advice": "香港本地公司註冊與商業登記設有一站式申請安排，成立公司仍要留意後續申報及公司責任。",
+      "example": "例如創辦 SaaS 公司，可到公司註冊處電子服務平台查所需文件。",
+      "source": "公司註冊處：公司註冊電子服務",
+      "url": "https://www.cr.gov.hk/en/electronic/e-servicesportal/docs_submission.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK045",
+      "category": "創業私隱",
+      "title": "建立網站要先規劃個人資料保護",
+      "advice": "收集姓名、電郵、電話或個人紀錄，應按香港《個人資料（私隱）條例》的資料保障原則設計用途、保安及保留安排。",
+      "example": "例如報名頁只索取完成活動所需資料，清楚交代用途。",
+      "source": "個人資料私隱專員公署",
+      "url": "https://www.pcpd.org.hk/english/resources_centre/publications/posters_Infographics/posters_Infographics.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK046",
+      "category": "創業私隱",
+      "title": "不要把內地 ICP 備案視為香港通則",
+      "advice": "香港網站經營要按香港法律及具體業務性質核對要求，不宜直接照搬內地 ICP 備案清單。",
+      "example": "例如以香港實體提供普通企業網站時，先判斷本地登記、私隱及業務牌照需要。",
+      "source": "稅務局：商業登記",
+      "url": "https://www.ird.gov.hk/eng/tax/bre_gen.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK047",
+      "category": "創業私隱",
+      "title": "個人資料不可無限期保存",
+      "advice": "資料保留期限應與收集目的相符，並採取合理資訊保安措施，不能因技術上易於保存就永久保留。",
+      "example": "例如活動完結後定期檢查是否仍需保留參加者個人資料。",
+      "source": "個人資料私隱專員公署",
+      "url": "https://www.pcpd.org.hk/english/resources_centre/publications/posters_Infographics/posters_Infographics.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK048",
+      "category": "婚姻育兒",
+      "title": "結婚要先遞交擬結婚通知書",
+      "advice": "香港結婚須依規定提前遞交通知，至少展示 15 個整天，並在通知發出後三個月有效期內完成。",
+      "example": "例如打算 12 月舉行婚禮，不要只預訂酒席而忘記婚姻登記程序。",
+      "source": "入境事務處：婚姻登記",
+      "url": "https://www.immd.gov.hk/eng/marriage/Registration_of_a_Marriage.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK049",
+      "category": "婚姻育兒",
+      "title": "嬰兒出生後 42 天內辦理登記",
+      "advice": "香港出生嬰兒一般應在出生後 42 天內辦理出生登記，期限內登記免登記費。",
+      "example": "例如出院後即預約辦理，避免超過 42 天的期限。",
+      "source": "入境事務處：出生登記",
+      "url": "https://www.immd.gov.hk/eng/services/birth-death/Registration_of_a_Birth.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK050",
+      "category": "婚姻育兒",
+      "title": "產假與侍產假申請要留意有薪門檻",
+      "advice": "14 週產假與五天侍產假的實際有薪資格涉及連續受僱時間、事先通知和證明文件。",
+      "example": "例如僱員未滿 40 星期連續受僱，相關假期及薪酬資格可能不同。",
+      "source": "勞工處：產假",
+      "url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK051",
+      "category": "婚姻育兒",
+      "title": "婚姻及子女開支用本地制度估算",
+      "advice": "婚育財務安排應計入香港居住、托兒、稅務與公共服務，不應引用內地彩禮、戶籍及生育補貼規則。",
+      "example": "例如規劃生育年度預算時，同時計入產假薪金與醫療費用。",
+      "source": "入境事務處：出生登記",
+      "url": "https://www.immd.gov.hk/eng/services/birth-death/Registration_of_a_Birth.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK052",
+      "category": "婚姻育兒",
+      "title": "父母可查學童資助與公營教育",
+      "advice": "孩子成長的教育及資助規劃應按教育局、學生資助制度與學校公告核實，而非沿用內地學區房或高考安排。",
+      "example": "例如入讀小一時查香港小一入學統籌辦法，而非內地入學政策。",
+      "source": "教育局：中小學教育",
+      "url": "https://www.edb.gov.hk/en/about-edb/policy/primary-secondary/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK053",
+      "category": "教育技能",
+      "title": "香港提供 12 年免費公營中小學教育",
+      "advice": "香港政府透過公營學校為兒童提供 12 年免費小學及中學教育，實際入學仍按本地制度安排。",
+      "example": "例如為孩子選擇學校時，留意資助與直資及私校的收費差別。",
+      "source": "教育局：中小學教育",
+      "url": "https://www.edb.gov.hk/en/about-edb/policy/primary-secondary/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK054",
+      "category": "教育技能",
+      "title": "不要以高考制度替代香港文憑試",
+      "advice": "香港教育升學安排與中國內地高考有本質差異，升學資訊須按本地教育局及院校公告核對。",
+      "example": "例如中六畢業的升學規劃應了解香港中學文憑考試及相關途徑。",
+      "source": "教育局：中小學教育",
+      "url": "https://www.edb.gov.hk/en/about-edb/policy/primary-secondary/index.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK055",
+      "category": "教育技能",
+      "title": "技能學習考慮香港就業市場",
+      "advice": "評估培訓成本及薪酬回報時採用香港就業與收入資料，而非直接使用內地城市薪酬樣本。",
+      "example": "例如比較護理、技術員、資訊科技職位，應找相同香港行業的就業數據。",
+      "source": "政府統計處：2025 年就業收入中位數",
+      "url": "https://www.censtatd.gov.hk/en/web_table.html?id=210-06314",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK056",
+      "category": "教育技能",
+      "title": "兼職兼讀學生要核對最低工資豁免",
+      "advice": "最低工資對某些學生實習或工作體驗情況設有法定豁免，不能一概以最低時薪計算所有實習。",
+      "example": "例如有學分實習安排時，核對勞工處的實習生豁免條件。",
+      "source": "勞工處：法定最低工資",
+      "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK057",
+      "category": "教育技能",
+      "title": "利用本地勞工規則選擇工作方式",
+      "advice": "自由工作、兼職和全職的法定權利不完全相同，簽約時先看實際關係及服務條款。",
+      "example": "例如每週工時浮動的兼職，要檢查連續性合約新規。",
+      "source": "勞工處：連續性合約新規定",
+      "url": "https://www.labour.gov.hk/eng/labour/Continuous_Contract_EduTool.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK058",
+      "category": "旅遊出境",
+      "title": "海外遇困可向入境處求助 1868",
+      "advice": "身處香港以外遇上意外或重大困難，可聯絡入境事務處協助在外香港居民小組的 24 小時 1868 熱線。",
+      "example": "例如在海外遺失旅行證件，先確認當地安全及入境處可提供的協助。",
+      "source": "入境事務處：境外求助",
+      "url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK059",
+      "category": "旅遊出境",
+      "title": "出境前核對目的地入境要求",
+      "advice": "旅行前查目的地的簽證、護照有效期與安全資訊，避免使用過期或不適用於香港特區護照的內地免簽資料。",
+      "example": "例如持香港特區護照赴外地，應查適用香港護照的簽證規則。",
+      "source": "入境事務處：境外求助",
+      "url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK060",
+      "category": "旅遊出境",
+      "title": "記下當地緊急聯絡方式",
+      "advice": "出境前保存住宿地址、緊急聯絡人及 1868，亦應記下目的地的當地警察與救護電話。",
+      "example": "例如遠足時與家人分享行程，並安排失聯應對。",
+      "source": "入境事務處：境外求助",
+      "url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK061",
+      "category": "旅遊出境",
+      "title": "香港居民境外求助不是免費代付全部費用",
+      "advice": "求助支援有職權範圍，不能假設政府會替旅客承擔醫療、法律或回程費用，出發前應評估保險保障。",
+      "example": "例如海外住院前，先確認旅行保險條款與當地醫療收費。",
+      "source": "入境事務處：境外求助",
+      "url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK062",
+      "category": "旅遊出境",
+      "title": "緊急求助與一般旅遊查詢分開",
+      "advice": "在香港境內即時危險致電 999，在境外求助用 1868；一般政府程序則可向相應部門或 1823 查詢。",
+      "example": "例如在外地遇事故可先向當地緊急機構求援，再聯絡 1868。",
+      "source": "入境事務處：境外求助",
+      "url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK063",
+      "category": "香港數據",
+      "title": "香港 2026 年中人口約 751.83 萬",
+      "advice": "政府統計處 2026 年 8 月公布，香港 2026 年年中暫定人口估計為 7,518,300 人。",
+      "example": "引用人口統計時要同時註明年期及暫定性質，不要直接換成全國人口比例。",
+      "source": "政府統計處：2026 年年中人口",
+      "url": "https://www.censtatd.gov.hk/en/press_release_detail.html?id=5792&r=rss",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK064",
+      "category": "香港數據",
+      "title": "2025 年就業人士每月收入中位數約 20,400 元",
+      "advice": "政府統計處按 2025 年度統計，就業人士每月就業收入中位數為港幣 20,400 元。",
+      "example": "這是中位數而非平均數，也不是新入職者一定能拿到的月薪。",
+      "source": "政府統計處：2025 年就業收入中位數",
+      "url": "https://www.censtatd.gov.hk/en/web_table.html?id=210-06314",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK065",
+      "category": "香港數據",
+      "title": "2025 年消委會接獲 38,187 宗投訴",
+      "advice": "消委會公布 2025 年全年總投訴宗數 38,187 宗，其中服務相關佔 61%。",
+      "example": "可用來顯示本地消費爭議規模，但不能推算某一商戶必定出問題。",
+      "source": "香港消費者委員會：投訴統計",
+      "url": "https://www.consumer.org.hk/en/complaints-and-services",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK066",
+      "category": "香港數據",
+      "title": "2026 年最低工資每小時 43.1 元",
+      "advice": "以 2026 年 5 月 1 日為生效日期，引用時標明法定最低工資及適用範圍。",
+      "example": "別用內地城市最低月薪直接比較；香港以每小時計算。",
+      "source": "勞工處：法定最低工資",
+      "url": "https://www.labour.gov.hk/eng/public/content2_smw.htm",
+      "verified": "2026-10-18"
+    },
+    {
+      "id": "HK067",
+      "category": "香港數據",
+      "title": "2026 年公屋入息上限因人數而異",
+      "advice": "2026 年 4 月生效的公屋入息及資產限額按家庭人數劃分，不能引用單一數字代表所有家庭。",
+      "example": "四人家庭的每月入息限額為港幣 32,020 元。",
+      "source": "房屋委員會：2026 年公屋入息及資產限額",
+      "url": "https://housingauthority.gov.hk/en/flat-application/income-and-asset-limits/index.html",
+      "verified": "2026-10-18"
+    }
+  ]
+}
