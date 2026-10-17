@@ -8,7 +8,7 @@
 (function(){
   try {
     if (location.protocol !== 'http:' && location.protocol !== 'https:') return;
-    if (!/(?:\\/|\\/index\\.html)$/.test(location.pathname)) return;
+    if (!(location.pathname.endsWith('/') || location.pathname.endsWith('/index.html'))) return;
     const here = new URL(location.href);
     if (here.searchParams.get('edition') === 'cn') return;
     const hk = new URL('hk/', here.href);
