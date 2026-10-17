@@ -7549,7 +7549,7 @@
       "title": "有人倒地沒呼吸，立刻用力按壓胸口，讓旁人打 999 並找 AED",
       "advice": "遇到失去反應或沒有正常呼吸的病人，立即致電 999 並尋找 AED，按緊急服務指示施救。",
       "example": "例如有人在商場倒地失去反應，立刻請其他人取 AED 並聯絡 999。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7557,16 +7557,17 @@
       "original_section": "13.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-002",
       "category": "緊急應變",
       "title": "遇到有人跌倒或昏迷，先評估安全並求助",
-      "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "確認環境安全後立即致電 999，按接線員指示進行心肺復甦，並請旁人取得 AED。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7574,16 +7575,17 @@
       "original_section": "13.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-003",
       "category": "緊急應變",
       "title": "突然嘴歪、一側胳膊沒勁、說話說不清，立刻打 999，不要等、不要自己開車去",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如乘坐的士、私家車或在香港道路上駕駛時，先核對適用的安全規則。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7591,16 +7593,17 @@
       "original_section": "13.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-004",
       "category": "緊急應變",
       "title": "突然天旋地轉站不穩、看東西成雙、一隻眼發黑，或者手指點不到自己鼻尖，也按卒中打 999",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7608,16 +7611,17 @@
       "original_section": "13.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-005",
       "category": "緊急應變",
       "title": "一隻眼睛突然像拉下窗簾一樣黑掉，哪怕幾分鐘就自己好了，也當天按卒中去急診",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7625,16 +7629,17 @@
       "original_section": "13.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-006",
       "category": "緊急應變",
       "title": "一隻眼又脹又痛、發紅，看燈有一圈彩虹，還頭痛惡心想吐，當天去眼科急診",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7642,16 +7647,17 @@
       "original_section": "13.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-007",
       "category": "緊急應變",
       "title": "胸口壓着疼、悶、發緊超過 15 分鐘不緩解，或者疼時出冷汗、噁心、喘不上氣，打 999，不要自己扛也不要自己開車",
-      "advice": "出現突然或嚴重的症狀時，先確保現場安全並立即致電 999；按救護人員指示提供協助。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在屋苑大堂突然失去反應，可請旁人取 AED，並立即呼叫救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7659,16 +7665,17 @@
       "original_section": "13.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-008",
       "category": "緊急應變",
       "title": "突然像被撕開一樣的劇痛，從胸口往後背、往腰一路挪，打 999 並說清「像撕開一樣」",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7676,16 +7683,17 @@
       "original_section": "13.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-009",
       "category": "緊急應變",
       "title": "突然一記「這輩子最疼的頭痛」，一小時內就到最疼，立刻去急診做頭顱 CT",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7693,16 +7701,17 @@
       "original_section": "13.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-010",
       "category": "緊急應變",
       "title": "老人磕過頭之後兩三週到幾個月變得走路不穩、遲鈍、嗜睡或者一側沒勁，去做頭顱 CT",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7710,16 +7719,17 @@
       "original_section": "13.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-011",
       "category": "緊急應變",
       "title": "一條腿突然腫起來、發緊、按着疼，儘快就醫；再加上突然喘不上氣或者胸痛，立刻打 999",
-      "advice": "出現突然或嚴重的症狀時，先確保現場安全並立即致電 999；按救護人員指示提供協助。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在屋苑大堂突然失去反應，可請旁人取 AED，並立即呼叫救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7727,8 +7737,9 @@
       "original_section": "13.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-012",
@@ -7736,7 +7747,7 @@
       "title": "大出血先用手死死壓住傷口，四肢壓不住就上止血帶，同時打 999",
       "advice": "先確保現場安全，避免不必要搬動傷者，及早求助；嚴重出血或深層創傷應立即致電 999。",
       "example": "例如在家中遇上嚴重割傷，請旁人協助聯絡救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7744,16 +7755,17 @@
       "original_section": "13.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-013",
       "category": "緊急應變",
       "title": "被狗、貓咬傷或抓破皮，先用肥皂水和流水交替衝 15 分鐘，當天去打疫苗",
-      "advice": "按個人病史和需要向母嬰健康院、家庭醫生或相關醫護人員核對檢查、接種或照顧安排。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如覆診時帶同健康紀錄和已接種疫苗資料，向醫護查詢下一步安排。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7761,16 +7773,17 @@
       "original_section": "13.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-014",
       "category": "緊急應變",
       "title": "燙傷後立刻用涼的流動水衝 20 分鐘，別抹牙膏醬油",
-      "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7778,16 +7791,17 @@
       "original_section": "13.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-015",
       "category": "緊急應變",
       "title": "突然全身起疹、喘不上氣或者發暈，按過敏性休克處理，立刻叫 999 並說清楚",
-      "advice": "出現突然或嚴重的症狀時，先確保現場安全並立即致電 999；按救護人員指示提供協助。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在屋苑大堂突然失去反應，可請旁人取 AED，並立即呼叫救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7795,16 +7809,17 @@
       "original_section": "13.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-016",
       "category": "緊急應變",
       "title": "有人抽搐倒地，清開周圍、讓他側躺、看錶計時，什麼都別往嘴裏塞；孩子發燒時抽搐也一樣",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7812,16 +7827,17 @@
       "original_section": "13.16",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-017",
       "category": "緊急應變",
       "title": "糖尿病人突然發抖、出冷汗、說話不清，先給 15 克糖，15 分鐘後複測",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7829,16 +7845,17 @@
       "original_section": "13.17",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-018",
       "category": "緊急應變",
       "title": "有人觸電，先斷電，再用乾燥的木棍之類挑開電源，不要直接上手拉",
-      "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "先離開危險範圍，避免增加傷者；有即時危險應致電 999，並按現場專業人員指示行動。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7846,16 +7863,17 @@
       "original_section": "13.18",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-019",
       "category": "緊急應變",
       "title": "一氧化碳報警器響了，或者一屋子人同時頭痛惡心，先出門再打電話",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7863,16 +7881,17 @@
       "original_section": "13.19",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-020",
       "category": "緊急應變",
       "title": "誤服清潔劑、農藥、藥物先別催吐，帶上瓶子立刻就醫；濺到眼睛或皮膚用大量清水至少衝 15 分鐘",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7880,16 +7899,17 @@
       "original_section": "13.20",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-021",
       "category": "緊急應變",
       "title": "酸鹼等化學品濺到身上，立刻脱掉污染的衣服、用大量流動清水衝，眼睛要掰開眼皮衝，衝夠時間再走",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7897,16 +7917,17 @@
       "original_section": "13.21",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-022",
       "category": "緊急應變",
       "title": "高温下頭暈、噁心、不出汗或意識不清，立刻挪到陰涼處脱衣潑水降温，意識不清的不喂水、打 999",
-      "advice": "出現突然或嚴重的症狀時，先確保現場安全並立即致電 999；按救護人員指示提供協助。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在屋苑大堂突然失去反應，可請旁人取 AED，並立即呼叫救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7914,16 +7935,17 @@
       "original_section": "13.22",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-023",
       "category": "緊急應變",
       "title": "中暑的人只要清醒，就少量多次喝涼的淡鹽水或運動飲料，別猛灌、別喝酒和高糖飲料",
-      "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7931,8 +7953,9 @@
       "original_section": "13.23",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-024",
@@ -7940,7 +7963,7 @@
       "title": "火災時貼地爬、摸門再開門、門燙就別開，走樓梯不坐電梯，出去了別回頭",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 優先依照樓宇火警逃生指示疏散，不使用升降機；如有人受困，應立即致電 999。",
       "example": "例如屋苑大廈響起火警鐘時，先查看安全出口並遵從消防人員指示。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7948,16 +7971,17 @@
       "original_section": "13.24",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-025",
       "category": "緊急應變",
       "title": "看到有人溺水，先叫人和打 999/999，伸竿、拋漂浮物，自己不下水",
-      "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
+      "advice": "先離開危險範圍，避免增加傷者；有即時危險應致電 999，並按現場專業人員指示行動。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7965,16 +7989,17 @@
       "original_section": "13.25",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-026",
       "category": "緊急應變",
       "title": "有人哽噎時立即辨識及處理",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7982,8 +8007,9 @@
       "original_section": "13.26",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-027",
@@ -7991,7 +8017,7 @@
       "title": "戶外迷路時保留體力並準確報告位置",
       "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -7999,16 +8025,17 @@
       "original_section": "13.27",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G13-028",
       "category": "緊急應變",
       "title": "發抖、說話含糊、走路打晃是失温，換掉濕衣、包起來，先暖軀幹，喝熱甜飲不喝酒",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8016,16 +8043,17 @@
       "original_section": "13.28",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-029",
       "category": "緊急應變",
       "title": "被蛇咬，坐下別動、摘掉戒指手錶、儘快送醫院打抗蛇毒血清，不切、不吸、不綁死",
-      "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如準備到公立診所覆診時，帶上藥物清單與最近的檢查結果。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8033,8 +8061,9 @@
       "original_section": "13.29",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-030",
@@ -8042,7 +8071,7 @@
       "title": "地震時先看自己在什麼房子裏：符合抗震設防的樓裏就地躲，會垮的老房子門在幾步外就出去",
       "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8050,16 +8079,17 @@
       "original_section": "13.30",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G13-031",
       "category": "緊急應變",
       "title": "遇到熊、野豬、成羣野狗，別跑，側身慢慢退開",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "先離開危險範圍，避免增加傷者；有即時危險應致電 999，並按現場專業人員指示行動。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8067,16 +8097,17 @@
       "original_section": "13.31",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-032",
       "category": "緊急應變",
       "title": "野外遇上雷雨，鑽進有硬頂的車或建築，避開山脊、孤樹、水面和金屬",
-      "advice": "先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
+      "advice": "先離開危險範圍，避免增加傷者；有即時危險應致電 999，並按現場專業人員指示行動。",
       "example": "例如乘坐的士、私家車或在香港道路上駕駛時，先核對適用的安全規則。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8084,8 +8115,9 @@
       "original_section": "13.32",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-033",
@@ -8093,7 +8125,7 @@
       "title": "上高原按睡眠海拔（當晚睡在多高）慢慢升，症狀加重就下撤，不要硬扛",
       "advice": "先整理症狀、病史及用藥紀錄，與註冊醫護人員確認合適的下一步。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8101,8 +8133,9 @@
       "original_section": "13.33",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G13-034",
@@ -8110,7 +8143,7 @@
       "title": "被蜱蟲叮住，用尖頭鑷子貼着皮膚穩穩拉出來，別塗油別用火燒",
       "advice": "優先依照樓宇火警逃生指示疏散，不使用升降機；如有人受困，應立即致電 999。",
       "example": "例如屋苑大廈響起火警鐘時，先查看安全出口並遵從消防人員指示。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8118,8 +8151,9 @@
       "original_section": "13.34",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-035",
@@ -8127,7 +8161,7 @@
       "title": "野外的水一律燒開再喝，滾開一分鐘就夠，常見的旅行海拔上不用因為海拔高多煮",
       "advice": "出發前查看目的地官方要求，並保存證件、保險與緊急聯絡資料。 優先依照樓宇火警逃生指示疏散，不使用升降機；如有人受困，應立即致電 999。",
       "example": "例如屋苑大廈響起火警鐘時，先查看安全出口並遵從消防人員指示。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8135,8 +8169,9 @@
       "original_section": "13.35",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-036",
@@ -8144,7 +8179,7 @@
       "title": "荒郊野外被陌生人索財，錢給他，不動手，記特徵，脱身後報警",
       "advice": "預先整理必需文件並向負責的香港機構查詢程序；法律爭議應由合資格專業人士協助。 先遠離危險環境並向附近人士求助，必要時致電 999；出發前應留意天文台及郊野安全提示。",
       "example": "例如行山時遇上突發惡劣天氣，可停止前進，找安全位置並報告所在地。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8152,16 +8187,17 @@
       "original_section": "13.36",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-037",
       "category": "緊急應變",
       "title": "撞見一羣人打架，退開走人，別上去拉架、別圍觀、別撿地上的傢伙；要報警就退到安全距離打 999",
-      "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "先離開危險範圍，避免增加傷者；有即時危險應致電 999，並按現場專業人員指示行動。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8169,16 +8205,17 @@
       "original_section": "13.37",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-038",
       "category": "緊急應變",
       "title": "可能被 HIV 暴露了，72 小時內去拿阻斷藥，越早越好",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8186,8 +8223,9 @@
       "original_section": "13.38",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-039",
@@ -8195,7 +8233,7 @@
       "title": "救人受傷後保留記錄並了解支援",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8203,8 +8241,9 @@
       "original_section": "13.39",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G13-040",
@@ -8212,7 +8251,7 @@
       "title": "刀、鋼筋、玻璃扎進身體，壓住異物周圍止血，不要把它拔出來",
       "advice": "先確保現場安全，避免不必要搬動傷者，及早求助；嚴重出血或深層創傷應立即致電 999。",
       "example": "例如在家中遇上嚴重割傷，請旁人協助聯絡救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8220,16 +8259,17 @@
       "original_section": "13.40",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-041",
       "category": "緊急應變",
       "title": "疑似性侵後優先確保安全與尋求協助",
-      "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8237,16 +8277,17 @@
       "original_section": "13.41",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-042",
       "category": "緊急應變",
       "title": "被性侵之後，先到安全的地方打 999；驗傷之前別洗澡、別洗衣服、別收拾房間，72 小時內去醫院",
-      "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如準備到公立診所覆診時，帶上藥物清單與最近的檢查結果。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8254,16 +8295,17 @@
       "original_section": "13.42",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-043",
       "category": "緊急應變",
       "title": "不滿 1 歲的嬰兒噎住哭不出聲，趴着拍背 5 下、翻過來按胸口 5 下，輪着做，別按肚子",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8271,16 +8313,17 @@
       "original_section": "13.43",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-044",
       "category": "緊急應變",
       "title": "嬰兒哽噎時按適當急救指引求助",
-      "advice": "出現突然或嚴重的症狀時，先確保現場安全並立即致電 999；按救護人員指示提供協助。",
+      "advice": "確認環境安全後立即致電 999，按接線員指示進行心肺復甦，並請旁人取得 AED。",
       "example": "例如家人在屋苑大堂突然失去反應，可請旁人取 AED，並立即呼叫救護服務。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8288,16 +8331,17 @@
       "original_section": "13.44",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-045",
       "category": "緊急應變",
       "title": "嬰兒停止正常呼吸時立即求助",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8305,16 +8349,17 @@
       "original_section": "13.45",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-046",
       "category": "緊急應變",
       "title": "有人喝醉了，讓他側躺、有人一直守着，別讓他一個人睡；叫不醒、呼吸慢或不規律、抽搐、身上發涼就打 999",
-      "advice": "症狀突然或嚴重出現時，應儘快接受急症評估；有生命危險或懷疑中風、心臟急症時立即致電 999。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如家人在家中突然口齒不清、一側無力，記下症狀出現時間並立即召喚救護車。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8322,8 +8367,9 @@
       "original_section": "13.46",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-047",
@@ -8331,7 +8377,7 @@
       "title": "手指、腳趾被切斷，先壓住傷口止血，斷下來的部分用濕紗布包好裝進密封袋，袋子放進冰水裏，去有手外科的醫院",
       "advice": "先確保現場安全，避免不必要搬動傷者，及早求助；嚴重出血或深層創傷應立即致電 999。",
       "example": "例如準備到公立診所覆診時，帶上藥物清單與最近的檢查結果。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8339,16 +8385,17 @@
       "original_section": "13.47",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G13-048",
       "category": "緊急應變",
       "title": "恆牙（換牙之後長出來的牙）整顆撞掉，捏住牙冠衝一下，能放回去就放回去，放不回就泡在牛奶裏，馬上去看牙；乳牙別放回去",
-      "advice": "遇到緊急情況先保護自身及旁人安全，按需要致電 999；詳細急救手法宜接受認可訓練。",
+      "advice": "這可能需要及時醫療處理。先確保安全，出現嚴重徵狀時立即致電 999；若仍清醒穩定，亦應按情況盡快就醫。",
       "example": "例如有人在港鐵站突然不適，立即呼叫職員協助並提供準確位置。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港消防處",
       "reference_url": "https://www.hkfsd.gov.hk/chi/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8356,16 +8403,17 @@
       "original_section": "13.48",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-001",
       "category": "科技與私隱",
       "title": "為重要帳戶啟用多重因素驗證",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8373,16 +8421,17 @@
       "original_section": "14.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-002",
       "category": "科技與私隱",
       "title": "電子郵件帳戶使用獨立密碼",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8390,16 +8439,17 @@
       "original_section": "14.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-003",
       "category": "科技與私隱",
       "title": "手機設定鎖屏密碼及適當保安選項",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8407,16 +8457,17 @@
       "original_section": "14.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-004",
       "category": "科技與私隱",
       "title": "手機遺失時迅速保護 SIM 卡與銀行帳戶",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8424,16 +8475,17 @@
       "original_section": "14.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-005",
       "category": "科技與私隱",
       "title": "發現信用卡可疑交易立即聯絡發卡機構",
-      "advice": "作決定前核對費用、風險、還款或理賠責任，避免單靠宣傳作承諾；有爭議時保存文件。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如在香港比較貸款或保險產品時，先核對條款與實際總成本。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8441,16 +8493,17 @@
       "original_section": "14.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-006",
       "category": "科技與私隱",
       "title": "定期檢查帳戶登入設備與應用程式授權",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8458,16 +8511,17 @@
       "original_section": "14.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-007",
       "category": "科技與私隱",
       "title": "安裝 App 前查看索取個人資料的理由",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8475,16 +8529,17 @@
       "original_section": "14.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-008",
       "category": "科技與私隱",
       "title": "了解個人資料查閱及改正權利",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8492,8 +8547,9 @@
       "original_section": "14.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-009",
@@ -8501,7 +8557,7 @@
       "title": "提供生物辨識資料前了解用途與替代方案",
       "advice": "先確認授權與個人資料用途，落實最小權限、妥善保護帳戶，並保存必要操作紀錄。 先確認授權、資料用途和安全風險；只在獲授權範圍內操作，保護帳戶與個人資料。",
       "example": "例如開發網站或維護公司系統前，書面確認操作權限及收集用戶資料的目的。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8509,16 +8565,17 @@
       "original_section": "14.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-010",
       "category": "科技與私隱",
       "title": "不要向不明 AI 服務提供密鑰與機密資料",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8526,16 +8583,17 @@
       "original_section": "14.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-011",
       "category": "科技與私隱",
       "title": "定期核對名下銀行及電訊帳戶",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8543,16 +8601,17 @@
       "original_section": "14.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G14-012",
       "category": "科技與私隱",
       "title": "更換電話號碼前更新重要帳戶聯絡資料",
-      "advice": "清楚界定用途和操作權限，只收集必要資料，並採取合適保安措施及定期覆核。",
+      "advice": "先檢查帳戶安全設定、已授權裝置與相關紀錄；如懷疑盜用，使用官方渠道聯絡銀行、電訊商或平台，並按香港私隱要求處理資料。",
       "example": "例如管理香港網店客戶資料時，限制員工權限並清楚告知資料用途。",
-      "review_status": "一般安全建議待審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "個人資料私隱專員公署",
       "reference_url": "https://www.pcpd.org.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8560,8 +8619,9 @@
       "original_section": "14.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般安全建議待審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-001",
@@ -8569,7 +8629,7 @@
       "title": "租屋合約應寫明按金及退還安排",
       "advice": "簽約及付款前先核對業權、條款、收費、按揭或租務責任，並保留書面證據。 租買物業前核對契約、付款、物業資料及法定要求；重要承諾應書面記錄，有疑問時尋求合資格法律意見。",
       "example": "例如簽訂私人住宅租約前，查明按金、租金、退租及維修條款。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8577,8 +8637,9 @@
       "original_section": "15.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-002",
@@ -8586,7 +8647,7 @@
       "title": "遇上滋擾式逼遷應保留證據並求助",
       "advice": "先確保自身安全，妥善保存原始證據；涉及法律權利時，向警方或合資格法律專業人士查詢。",
       "example": "例如遇上威嚇或不明轉帳要求時，先保存訊息，必要時報警求助。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8594,16 +8655,17 @@
       "original_section": "15.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-003",
       "category": "住屋與租務",
       "title": "付款前核實業主或代理身分及收款安排",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8611,8 +8673,9 @@
       "original_section": "15.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-004",
@@ -8620,7 +8683,7 @@
       "title": "長租及預繳租金前評估合約與資金風險",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8628,16 +8691,17 @@
       "original_section": "15.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-005",
       "category": "住屋與租務",
       "title": "物業轉讓前後應核對原有租約效力",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8645,16 +8709,17 @@
       "original_section": "15.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-006",
       "category": "住屋與租務",
       "title": "租屋前查核物業用途及關鍵資料",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8662,8 +8727,9 @@
       "original_section": "15.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-007",
@@ -8671,7 +8737,7 @@
       "title": "買賣物業時選擇清晰安全的付款程序",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8679,8 +8745,9 @@
       "original_section": "15.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-008",
@@ -8688,7 +8755,7 @@
       "title": "分間單位租住前查核安全及法規",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 租買物業前核對契約、付款、物業資料及法定要求；重要承諾應書面記錄，有疑問時尋求合資格法律意見。",
       "example": "例如簽訂私人住宅租約前，查明按金、租金、退租及維修條款。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8696,8 +8763,9 @@
       "original_section": "15.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-009",
@@ -8705,7 +8773,7 @@
       "title": "租住鄉郊物業先確認合法用途及權益",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8713,8 +8781,9 @@
       "original_section": "15.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-010",
@@ -8722,7 +8791,7 @@
       "title": "購買樓花前查閱售樓文件及付款安排",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8730,8 +8799,9 @@
       "original_section": "15.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-011",
@@ -8739,7 +8809,7 @@
       "title": "取消物業交易前查核訂金條款",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8747,16 +8817,17 @@
       "original_section": "15.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-012",
       "category": "住屋與租務",
       "title": "買樓前細閱面積及交樓文件",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8764,8 +8835,9 @@
       "original_section": "15.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-013",
@@ -8773,7 +8845,7 @@
       "title": "發展商延遲交樓時保存書面紀錄",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8781,16 +8853,17 @@
       "original_section": "15.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-014",
       "category": "住屋與租務",
       "title": "置業前查核物業業權及按揭負擔",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8798,8 +8871,9 @@
       "original_section": "15.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G15-015",
@@ -8807,7 +8881,7 @@
       "title": "定期檢視浮息按揭及銀行方案",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8815,8 +8889,9 @@
       "original_section": "15.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-016",
@@ -8824,7 +8899,7 @@
       "title": "按揭申請前比較息率、首期及供款",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8832,8 +8907,9 @@
       "original_section": "15.16",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-017",
@@ -8841,7 +8917,7 @@
       "title": "出現管理費爭議時按合法程序處理",
       "advice": "租買物業前核對契約、付款、物業資料及法定要求；重要承諾應書面記錄，有疑問時尋求合資格法律意見。",
       "example": "例如租住私人住宅時，仔細檢查租約內按金、維修、退租通知及費用條款。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8849,16 +8925,17 @@
       "original_section": "15.17",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G15-018",
       "category": "住屋與租務",
       "title": "收樓時記錄滲水、設備及保養問題",
-      "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
+      "advice": "簽署或付款前先保存合約、收據和物業資料；遇爭議應按香港適用租務或物業規則向相關專業人士核對權利。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法律與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "差餉物業估價署",
       "reference_url": "https://www.rvd.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8866,16 +8943,17 @@
       "original_section": "15.18",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法律與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-001",
       "category": "慢性病管理",
       "title": "慢性病藥物須按醫囑服用",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8883,8 +8961,9 @@
       "original_section": "16.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-002",
@@ -8892,7 +8971,7 @@
       "title": "管理慢性病前先了解公營醫療安排",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8900,16 +8979,17 @@
       "original_section": "16.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G16-003",
       "category": "慢性病管理",
       "title": "定期覆診並保存檢查結果",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8917,16 +8997,17 @@
       "original_section": "16.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-004",
       "category": "慢性病管理",
       "title": "不要自行停藥改用偏方",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8934,8 +9015,9 @@
       "original_section": "16.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-005",
@@ -8943,7 +9025,7 @@
       "title": "病情穩定時向醫生查詢續藥安排",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8951,16 +9033,17 @@
       "original_section": "16.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G16-006",
       "category": "慢性病管理",
       "title": "選擇家庭醫生時了解服務及收費",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8968,16 +9051,17 @@
       "original_section": "16.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-007",
       "category": "慢性病管理",
       "title": "糖尿病患者定期接受足部及眼底評估",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -8985,16 +9069,17 @@
       "original_section": "16.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-008",
       "category": "慢性病管理",
       "title": "有腎結石病史應與醫生討論預防方法",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9002,16 +9087,17 @@
       "original_section": "16.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-009",
       "category": "慢性病管理",
       "title": "確診痛風後按醫囑控制血尿酸",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9019,16 +9105,17 @@
       "original_section": "16.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-010",
       "category": "慢性病管理",
       "title": "痛風患者留意飲食及酒精",
-      "advice": "按食安中心和醫護建議評估適用風險，注意食品來源、標示、保存方式和個人需要。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在香港超市購買食品時，檢查配料標籤、保存條件及有效日期。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9036,16 +9123,17 @@
       "original_section": "16.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-011",
       "category": "慢性病管理",
       "title": "慢性乙型肝炎患者定期跟進",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9053,16 +9141,17 @@
       "original_section": "16.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-012",
       "category": "慢性病管理",
       "title": "慢阻肺患者學習正確吸入藥使用方法",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9070,16 +9159,17 @@
       "original_section": "16.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-013",
       "category": "慢性病管理",
       "title": "糖尿病或高血壓患者注意腎功能監測",
-      "advice": "按醫護人員建議評估及管理健康狀況，保存相關檢查結果，不自行停藥或改變治療。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如在覆診時帶上近期的藥物清單、檢查報告和疑問，與醫生共同訂定跟進計劃。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9087,16 +9177,17 @@
       "original_section": "16.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G16-014",
       "category": "慢性病管理",
       "title": "癌症康復期依醫護建議安排運動",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "按照主診醫生或相關專科團隊的計劃覆診，記錄症狀、用藥及檢查結果，切勿單憑網上建議改變治療。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "香港醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9104,16 +9195,17 @@
       "original_section": "16.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-001",
       "category": "長者照顧",
       "title": "趁長者仍能自行決定時討論照顧授權",
-      "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9121,16 +9213,17 @@
       "original_section": "17.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-002",
       "category": "長者照顧",
       "title": "提前規劃遺囑與遺產安排",
-      "advice": "整理正式證明、帳戶及合約文件，向適當香港部門查詢程序；涉及遺產爭議可求助律師。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人身故後，可按類別整理死亡登記、銀行和保險資料。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9138,16 +9231,17 @@
       "original_section": "17.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-003",
       "category": "長者照顧",
       "title": "長者財務管理宜保留自主與防騙措施",
-      "advice": "作決定前核對費用、風險、還款或理賠責任，避免單靠宣傳作承諾；有爭議時保存文件。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如在香港比較貸款或保險產品時，先核對條款與實際總成本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9155,16 +9249,17 @@
       "original_section": "17.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-004",
       "category": "長者照顧",
       "title": "提醒長者遇到高壓推銷先與家人商量",
-      "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9172,16 +9267,17 @@
       "original_section": "17.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-005",
       "category": "長者照顧",
       "title": "慎防假借安老之名的投資及預繳騙局",
-      "advice": "作決定前核對費用、風險、還款或理賠責任，避免單靠宣傳作承諾；有爭議時保存文件。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如在香港比較貸款或保險產品時，先核對條款與實際總成本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9189,8 +9285,9 @@
       "original_section": "17.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-006",
@@ -9198,7 +9295,7 @@
       "title": "以物業作退休資金安排前先了解風險",
       "advice": "簽約前確認物業資料、付款、費用、維修與取消條款；重要承諾和查核紀錄均應保存。",
       "example": "例如在香港租私人住宅時，先看清按金、退租及維修責任。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9206,8 +9303,9 @@
       "original_section": "17.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G17-007",
@@ -9215,7 +9313,7 @@
       "title": "長期照護需求可向社會福利署查詢服務",
       "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9223,16 +9321,17 @@
       "original_section": "17.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G17-008",
       "category": "長者照顧",
       "title": "長期臥床人士應做好壓瘡預防",
-      "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9240,16 +9339,17 @@
       "original_section": "17.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-009",
       "category": "長者照顧",
       "title": "白內障影響日常生活時諮詢眼科醫生",
-      "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9257,8 +9357,9 @@
       "original_section": "17.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-010",
@@ -9266,7 +9367,7 @@
       "title": "長者遛狗時注意牽繩及防跌安全",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9274,8 +9375,9 @@
       "original_section": "17.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-011",
@@ -9283,7 +9385,7 @@
       "title": "選擇安老院舍前核對牌照及照顧安排",
       "advice": "開始營運前確認本地登記、許可、合約與稅務責任，妥善保留收支與客戶紀錄。",
       "example": "例如在香港開設小型網店前，先清楚列出商品費用、交付和退款條款。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9291,8 +9393,9 @@
       "original_section": "17.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G17-012",
@@ -9300,7 +9403,7 @@
       "title": "照顧住院家人時查詢僱主假期安排",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9308,16 +9411,17 @@
       "original_section": "17.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G17-013",
       "category": "長者照顧",
       "title": "長者記憶與生活能力下降時安排評估",
-      "advice": "安排長者照顧或財務決定時，應尊重本人意願，並按實際需要向醫護、社工或法律專業人士查詢。",
+      "advice": "優先尊重長者自己的選擇，協助整理醫療、資產及照顧資料；牽涉失能、院舍或法律安排，應向本地專業機構核對。",
       "example": "例如家人可預先討論長者日常照顧及緊急聯絡方法，並向社會福利署查詢合適服務。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "社會福利署安老服務",
       "reference_url": "https://www.swd.gov.hk/en/pubsvc/elderly/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9325,8 +9429,9 @@
       "original_section": "17.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G18-001",
@@ -9334,7 +9439,7 @@
       "title": "養育子女前先查本地適用資助",
       "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9342,8 +9447,9 @@
       "original_section": "18.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G18-002",
@@ -9351,7 +9457,7 @@
       "title": "規劃產假及侍產假期間的家庭收入",
       "advice": "比較數字前先確認香港資料的年度、涵蓋人群及計算方法，避免只憑單一數字作決定。 規劃生育及育兒時，先掌握家庭收入、照顧時間、醫療需要與可能適用的本地安排。",
       "example": "例如雙職家庭可記下托兒費、產檢支出及法定假期安排，再決定財務預算。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9359,8 +9465,9 @@
       "original_section": "18.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G18-003",
@@ -9368,7 +9475,7 @@
       "title": "懷孕及育嬰期間了解僱員法定保障",
       "advice": "規劃生育及育兒時，先掌握家庭收入、照顧時間、醫療需要與可能適用的本地安排。",
       "example": "例如雙職家庭可記下托兒費、產檢支出及法定假期安排，再決定財務預算。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9376,8 +9483,9 @@
       "original_section": "18.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G18-004",
@@ -9385,7 +9493,7 @@
       "title": "提前討論育兒時間與照顧分工",
       "advice": "規劃生育及育兒時，先掌握家庭收入、照顧時間、醫療需要與可能適用的本地安排。",
       "example": "例如雙職家庭可記下托兒費、產檢支出及法定假期安排，再決定財務預算。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9393,8 +9501,9 @@
       "original_section": "18.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G18-005",
@@ -9402,7 +9511,7 @@
       "title": "按不同成長階段編列育兒預算",
       "advice": "規劃生育及育兒時，先掌握家庭收入、照顧時間、醫療需要與可能適用的本地安排。",
       "example": "例如雙職家庭可記下托兒費、產檢支出及法定假期安排，再決定財務預算。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9410,8 +9519,9 @@
       "original_section": "18.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G18-006",
@@ -9419,7 +9529,7 @@
       "title": "生育決定要兼顧家庭成員意願",
       "advice": "規劃生育及育兒時，先掌握家庭收入、照顧時間、醫療需要與可能適用的本地安排。",
       "example": "例如雙職家庭可記下托兒費、產檢支出及法定假期安排，再決定財務預算。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9427,16 +9537,17 @@
       "original_section": "18.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G18-007",
       "category": "婚育家庭",
       "title": "規劃生育年齡時諮詢醫護了解風險",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "把照顧時間、收入安排及家庭支援一併計劃，並按個人健康、經濟及法律情況調整。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處產假與家庭",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9444,8 +9555,9 @@
       "original_section": "18.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-001",
@@ -9453,7 +9565,7 @@
       "title": "加班安排與工資應按香港僱傭合約及法例核對",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9461,8 +9573,9 @@
       "original_section": "19.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-002",
@@ -9470,7 +9583,7 @@
       "title": "有薪年假須按連續受僱及年資計算",
       "advice": "先閱讀僱傭合約與《僱傭條例》適用條文，保存書面往來、薪金及工時紀錄；有爭議時可向勞工處查詢。",
       "example": "例如與僱主討論薪酬或離職安排時，把條件寫成電郵，保留工資單及合約副本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9478,8 +9591,9 @@
       "original_section": "19.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-003",
@@ -9487,7 +9601,7 @@
       "title": "試用期的通知及僱傭條款應寫清楚",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9495,8 +9609,9 @@
       "original_section": "19.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-004",
@@ -9504,7 +9619,7 @@
       "title": "裁員時查明遣散費或其他相關權利",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9512,8 +9627,9 @@
       "original_section": "19.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-005",
@@ -9521,7 +9637,7 @@
       "title": "被終止僱傭時先核對通知及代通知金",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9529,8 +9645,9 @@
       "original_section": "19.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-006",
@@ -9538,7 +9655,7 @@
       "title": "認為遭不當解僱時保留紀錄並求助",
       "advice": "先閱讀僱傭合約與《僱傭條例》適用條文，保存書面往來、薪金及工時紀錄；有爭議時可向勞工處查詢。",
       "example": "例如與僱主討論薪酬或離職安排時，把條件寫成電郵，保留工資單及合約副本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9546,8 +9663,9 @@
       "original_section": "19.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-007",
@@ -9555,7 +9673,7 @@
       "title": "不要在未明白後果前簽署自願辭職文件",
       "advice": "先閱讀僱傭合約與《僱傭條例》適用條文，保存書面往來、薪金及工時紀錄；有爭議時可向勞工處查詢。",
       "example": "例如與僱主討論薪酬或離職安排時，把條件寫成電郵，保留工資單及合約副本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9563,16 +9681,17 @@
       "original_section": "19.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-008",
       "category": "勞工權益",
       "title": "離職前保存屬於自己的工作及薪酬紀錄",
-      "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9580,16 +9699,17 @@
       "original_section": "19.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-009",
       "category": "勞工權益",
       "title": "接觸粉塵、噪音或化學品的工作要評估職業健康",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9597,16 +9717,17 @@
       "original_section": "19.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-010",
       "category": "勞工權益",
       "title": "僱主須安排適用的職業安全措施",
-      "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9614,16 +9735,17 @@
       "original_section": "19.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-011",
       "category": "勞工權益",
       "title": "工作期間受傷後儘快求醫及通知僱主",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9631,8 +9753,9 @@
       "original_section": "19.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-012",
@@ -9640,7 +9763,7 @@
       "title": "突發健康不適應優先處理安全與求醫",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9648,8 +9771,9 @@
       "original_section": "19.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-013",
@@ -9657,7 +9781,7 @@
       "title": "工傷賠償資格應按僱員補償制度核對",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9665,8 +9789,9 @@
       "original_section": "19.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-014",
@@ -9674,7 +9799,7 @@
       "title": "工傷後的傷殘評估宜依醫療及法定程序",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9682,8 +9807,9 @@
       "original_section": "19.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-015",
@@ -9691,7 +9817,7 @@
       "title": "因工死亡家屬可查詢適用的補償",
       "advice": "整理正式證明、帳戶及合約文件，向適當香港部門查詢程序；涉及遺產爭議可求助律師。",
       "example": "例如家人身故後，可按類別整理死亡登記、銀行和保險資料。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9699,8 +9825,9 @@
       "original_section": "19.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-016",
@@ -9708,7 +9835,7 @@
       "title": "職場欺凌應保存紀錄並尋求適當協助",
       "advice": "先確保自身安全，妥善保存原始證據；涉及法律權利時，向警方或合資格法律專業人士查詢。",
       "example": "例如遇上威嚇或不明轉帳要求時，先保存訊息，必要時報警求助。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9716,16 +9843,17 @@
       "original_section": "19.16",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-017",
       "category": "勞工權益",
       "title": "離職時索取合適的工作及薪酬證明",
-      "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9733,8 +9861,9 @@
       "original_section": "19.17",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-018",
@@ -9742,7 +9871,7 @@
       "title": "離職款項須核對香港稅務處理",
       "advice": "先核對稅務局目前的相關要求、表格、申報期及自身資格，保存交易與收入證明。",
       "example": "例如報稅前可核對電子報稅系統中的免稅額、扣除及所需文件。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9750,8 +9879,9 @@
       "original_section": "19.18",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-019",
@@ -9759,7 +9889,7 @@
       "title": "轉職前檢查強積金帳戶安排",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9767,8 +9897,9 @@
       "original_section": "19.19",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-020",
@@ -9776,7 +9907,7 @@
       "title": "入職前應取得清楚的書面僱傭條款",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9784,8 +9915,9 @@
       "original_section": "19.20",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-021",
@@ -9793,7 +9925,7 @@
       "title": "僱主強積金供款與薪酬權利應按本地規定核對",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9801,16 +9933,17 @@
       "original_section": "19.21",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G19-022",
       "category": "勞工權益",
       "title": "僱傭合約內的違約或賠償條款應核對適用法律",
-      "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
+      "advice": "保留相關文件和事實紀錄，遇到職場安全或合約爭議可向勞工處、醫護或合資格專業人士求助。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9818,8 +9951,9 @@
       "original_section": "19.22",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-023",
@@ -9827,7 +9961,7 @@
       "title": "調職減薪前應清楚核對合約及書面同意",
       "advice": "先閱讀僱傭合約與《僱傭條例》適用條文，保存書面往來、薪金及工時紀錄；有爭議時可向勞工處查詢。",
       "example": "例如與僱主討論薪酬或離職安排時，把條件寫成電郵，保留工資單及合約副本。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9835,8 +9969,9 @@
       "original_section": "19.23",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G19-024",
@@ -9844,7 +9979,7 @@
       "title": "外判或派遣工作要了解實際僱傭關係",
       "advice": "閱讀僱傭合約及勞工處適用資訊，保存工資單、工作紀錄及書面通知；遇爭議及早查詢。",
       "example": "例如與僱主商討裁員或離職條件時，先保留合約和工資紀錄。",
-      "review_status": "需香港法例與政策審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "勞工處僱傭權益",
       "reference_url": "https://www.labour.gov.hk/eng/faq/cap57_whole.htm",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9852,16 +9987,17 @@
       "original_section": "19.24",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需香港法例與政策審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G20-001",
       "category": "嬰幼兒健康",
       "title": "嬰兒睡眠應遵守安全睡眠原則",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9869,16 +10005,17 @@
       "original_section": "20.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-002",
       "category": "嬰幼兒健康",
       "title": "新生兒疫苗安排應按香港兒童免疫接種計劃",
-      "advice": "按個人病史和需要向母嬰健康院、家庭醫生或相關醫護人員核對檢查、接種或照顧安排。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如覆診時帶同健康紀錄和已接種疫苗資料，向醫護查詢下一步安排。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9886,16 +10023,17 @@
       "original_section": "20.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-003",
       "category": "嬰幼兒健康",
       "title": "定期核對嬰幼兒疫苗接種紀錄",
-      "advice": "按個人病史和需要向母嬰健康院、家庭醫生或相關醫護人員核對檢查、接種或照顧安排。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如覆診時帶同健康紀錄和已接種疫苗資料，向醫護查詢下一步安排。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9903,16 +10041,17 @@
       "original_section": "20.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-004",
       "category": "嬰幼兒健康",
       "title": "嬰兒餵哺與添加固體食物按醫護指引",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9920,16 +10059,17 @@
       "original_section": "20.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-005",
       "category": "嬰幼兒健康",
       "title": "安全沖調及儲存嬰兒配方奶",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9937,16 +10077,17 @@
       "original_section": "20.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-006",
       "category": "嬰幼兒健康",
       "title": "一歲以下嬰兒不應餵食蜂蜜",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9954,16 +10095,17 @@
       "original_section": "20.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-007",
       "category": "嬰幼兒健康",
       "title": "新生兒出生後向醫護確認維生素 K 安排",
-      "advice": "按個人病史和需要向母嬰健康院、家庭醫生或相關醫護人員核對檢查、接種或照顧安排。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如覆診時帶同健康紀錄和已接種疫苗資料，向醫護查詢下一步安排。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9971,16 +10113,17 @@
       "original_section": "20.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-008",
       "category": "嬰幼兒健康",
       "title": "小月齡嬰兒發燒應儘快接受醫療評估",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -9988,16 +10131,17 @@
       "original_section": "20.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-009",
       "category": "嬰幼兒健康",
       "title": "任何情況下都不要劇烈搖晃嬰兒",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10005,16 +10149,17 @@
       "original_section": "20.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-010",
       "category": "嬰幼兒健康",
       "title": "選擇尿片時留意合身及皮膚健康",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10022,16 +10167,17 @@
       "original_section": "20.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-011",
       "category": "嬰幼兒健康",
       "title": "嬰兒用品按安全需要分階段添置",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10039,16 +10185,17 @@
       "original_section": "20.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-012",
       "category": "嬰幼兒健康",
       "title": "引入可能致敏食物時先了解嬰兒風險",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10056,16 +10203,17 @@
       "original_section": "20.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-013",
       "category": "嬰幼兒健康",
       "title": "留意新生兒黃疸及進食警號",
-      "advice": "按個人病史和需要向母嬰健康院、家庭醫生或相關醫護人員核對檢查、接種或照顧安排。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如覆診時帶同健康紀錄和已接種疫苗資料，向醫護查詢下一步安排。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10073,16 +10221,17 @@
       "original_section": "20.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-014",
       "category": "嬰幼兒健康",
       "title": "素食餵哺家庭應諮詢營養及微量營養素需要",
-      "advice": "按食安中心和醫護建議評估適用風險，注意食品來源、標示、保存方式和個人需要。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如在香港超市購買食品時，檢查配料標籤、保存條件及有效日期。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10090,8 +10239,9 @@
       "original_section": "20.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-015",
@@ -10099,7 +10249,7 @@
       "title": "不要使用有跌倒風險的帶輪學步車",
       "advice": "嬰幼兒健康安排應以母嬰健康院、註冊醫生及衞生署的個別建議為準，遇到明顯不適應及時求醫。",
       "example": "例如乘坐的士、私家車或在香港道路上駕駛時，先核對適用的安全規則。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10107,16 +10257,17 @@
       "original_section": "20.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-016",
       "category": "嬰幼兒健康",
       "title": "維生素 D 補充應按兒科或母嬰健康院建議",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10124,16 +10275,17 @@
       "original_section": "20.16",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G20-017",
       "category": "嬰幼兒健康",
       "title": "替嬰兒洗澡時先確認水溫與安全",
-      "advice": "依孩子的發展階段和安全需要作安排，並可向學校、母嬰健康院或社工了解支援。",
+      "advice": "以香港衞生署、母嬰健康院或主診醫護的建議為準；嬰兒出現急性不適時不要單靠網上資料自行處理。",
       "example": "例如家長可記錄孩子的日常狀況，與老師或醫護人員討論需要。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署家庭健康服務",
       "reference_url": "https://www.fhs.gov.hk/english/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10141,16 +10293,17 @@
       "original_section": "20.17",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-001",
       "category": "旅遊安全",
       "title": "出境前查看目的地官方旅遊安全資訊",
-      "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10158,8 +10311,9 @@
       "original_section": "21.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-002",
@@ -10167,7 +10321,7 @@
       "title": "保存入境處協助在外香港居民熱線 1868",
       "advice": "出發前以目的地當局及入境處資訊核對所需證件、保險、入境條件和緊急支援方式。",
       "example": "例如香港特區護照持有人出發前，保存住宿、保險及入境處 1868 熱線資料。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10175,16 +10329,17 @@
       "original_section": "21.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G21-003",
       "category": "旅遊安全",
       "title": "了解境外支援的範圍及限制",
-      "advice": "出發前以目的地當局及入境處資訊核對所需證件、保險、入境條件和緊急支援方式。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如香港特區護照持有人出發前，保存住宿、保險及入境處 1868 熱線資料。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10192,16 +10347,17 @@
       "original_section": "21.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-004",
       "category": "旅遊安全",
       "title": "旅遊保險要留意醫療及緊急運送保障",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10209,8 +10365,9 @@
       "original_section": "21.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-005",
@@ -10218,7 +10375,7 @@
       "title": "慎防海外高薪工作詐騙",
       "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10226,8 +10383,9 @@
       "original_section": "21.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G21-006",
@@ -10235,7 +10393,7 @@
       "title": "出入境攜帶現金前核對申報規定",
       "advice": "出發前以目的地當局及入境處資訊核對所需證件、保險、入境條件和緊急支援方式。",
       "example": "例如香港特區護照持有人出發前，保存住宿、保險及入境處 1868 熱線資料。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10243,16 +10401,17 @@
       "original_section": "21.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G21-007",
       "category": "旅遊安全",
       "title": "旅行證件應妥善保存及設置備份",
-      "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10260,16 +10419,17 @@
       "original_section": "21.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-008",
       "category": "旅遊安全",
       "title": "海外自駕前查清當地駕照及保險要求",
-      "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10277,8 +10437,9 @@
       "original_section": "21.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-009",
@@ -10286,7 +10447,7 @@
       "title": "使用留學移民中介前核實資格與合約",
       "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10294,16 +10455,17 @@
       "original_section": "21.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G21-010",
       "category": "旅遊安全",
       "title": "勿隨意替陌生人擔保或提供證明文件",
-      "advice": "出發前以目的地當局及入境處資訊核對所需證件、保險、入境條件和緊急支援方式。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如香港特區護照持有人出發前，保存住宿、保險及入境處 1868 熱線資料。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10311,16 +10473,17 @@
       "original_section": "21.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-011",
       "category": "旅遊安全",
       "title": "出發前與可信任家人分享行程及聯絡方法",
-      "advice": "出發前以目的地當局及入境處資訊核對所需證件、保險、入境條件和緊急支援方式。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如香港特區護照持有人出發前，保存住宿、保險及入境處 1868 熱線資料。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10328,16 +10491,17 @@
       "original_section": "21.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-012",
       "category": "旅遊安全",
       "title": "攜帶處方藥出境前核對目的地限制",
-      "advice": "出發或申請前，查閱目的地政府及院校公布的最新資格、文件、保險與逗留要求。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如持香港特區護照準備出境前，先核實目的地簽證要求及出發當日的有效證件。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10345,16 +10509,17 @@
       "original_section": "21.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G21-013",
       "category": "旅遊安全",
       "title": "攜帶食物植物或動物產品入境須按香港海關及檢疫要求",
-      "advice": "按食安中心和醫護建議評估適用風險，注意食品來源、標示、保存方式和個人需要。",
+      "advice": "先確認目的地最新規則及自己的香港旅行證件是否符合要求，重要資訊以香港入境處及目的地主管機構公布為準。",
       "example": "例如在香港超市購買食品時，檢查配料標籤、保存條件及有效日期。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "入境事務處境外求助",
       "reference_url": "https://www.immd.gov.hk/eng/services/Assistance_Outside_Hong_Kong.html",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10362,8 +10527,9 @@
       "original_section": "21.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-001",
@@ -10371,7 +10537,7 @@
       "title": "進入娛樂場所前查看安全出口",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10379,16 +10545,17 @@
       "original_section": "22.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-002",
       "category": "生活與情緒",
       "title": "付款前確認娛樂服務價目及收費",
-      "advice": "作決定前核對費用、風險、還款或理賠責任，避免單靠宣傳作承諾；有爭議時保存文件。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如在香港比較貸款或保險產品時，先核對條款與實際總成本。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10396,16 +10563,17 @@
       "original_section": "22.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-003",
       "category": "生活與情緒",
       "title": "遠離可能涉及非法物質的邀約",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10413,8 +10581,9 @@
       "original_section": "22.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-004",
@@ -10422,7 +10591,7 @@
       "title": "看管自己的飲品並注意個人安全",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10430,8 +10599,9 @@
       "original_section": "22.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-005",
@@ -10439,7 +10609,7 @@
       "title": "選擇活動場所時留意消防及營業安全",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10447,8 +10617,9 @@
       "original_section": "22.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-006",
@@ -10456,7 +10627,7 @@
       "title": "情緒低落時可在安全情況下維持適量活動",
       "advice": "先確保自身安全並遵守現場安全指示；有生命危險時致電 999。 安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10464,16 +10635,17 @@
       "original_section": "22.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-007",
       "category": "生活與情緒",
       "title": "焦慮影響生活時了解正念等支援方案",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10481,16 +10653,17 @@
       "original_section": "22.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-008",
       "category": "生活與情緒",
       "title": "感到緊張時練習緩慢呼吸",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10498,16 +10671,17 @@
       "original_section": "22.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-009",
       "category": "生活與情緒",
       "title": "維持面對面社交與有質素的人際連繫",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10515,16 +10689,17 @@
       "original_section": "22.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-010",
       "category": "生活與情緒",
       "title": "生活環境可考慮方便接觸綠化空間",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10532,16 +10707,17 @@
       "original_section": "22.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-011",
       "category": "生活與情緒",
       "title": "飲酒後避免泡熱水浴或桑拿",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10549,16 +10725,17 @@
       "original_section": "22.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G22-012",
       "category": "生活與情緒",
       "title": "高風險運動應選擇合適保護裝備",
-      "advice": "安排休閒活動時，兼顧自身安全、清晰收費及身心健康；如情緒問題持續影響生活，可尋求專業支援。",
+      "advice": "安排活動時同時考慮安全、費用、健康與持續性；如心理困擾嚴重或持續，應向醫療及心理專業人員求助。",
       "example": "例如去密室或健身活動前了解逃生路線、參與風險與付款條款。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "衞生署健康資訊",
       "reference_url": "https://www.chp.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10566,8 +10743,9 @@
       "original_section": "22.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-001",
@@ -10575,7 +10753,7 @@
       "title": "青少年求職先了解法定工作年齡與規定",
       "advice": "先查看僱傭合約與勞工處適用規定，妥善保存工時、薪酬和書面通知。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10583,16 +10761,17 @@
       "original_section": "23.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-002",
       "category": "學習與就業",
       "title": "教育與技能可以是長期投資",
-      "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10600,8 +10779,9 @@
       "original_section": "23.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-003",
@@ -10609,7 +10789,7 @@
       "title": "分析香港教育及技能資料時留意統計口徑",
       "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10617,8 +10797,9 @@
       "original_section": "23.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-004",
@@ -10626,7 +10807,7 @@
       "title": "讀書經濟困難時查詢學生資助",
       "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10634,8 +10815,9 @@
       "original_section": "23.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-005",
@@ -10643,7 +10825,7 @@
       "title": "選擇中學後出路可了解職業教育與升學",
       "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10651,16 +10833,17 @@
       "original_section": "23.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-006",
       "category": "學習與就業",
       "title": "比較繼續升學與就業的長期成本回報",
-      "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10668,16 +10851,17 @@
       "original_section": "23.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-007",
       "category": "學習與就業",
       "title": "評估課程時不要只看宣傳的薪金回報",
-      "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10685,16 +10869,17 @@
       "original_section": "23.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-008",
       "category": "學習與就業",
       "title": "報讀職業資格課程前核對認受性",
-      "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10702,8 +10887,9 @@
       "original_section": "23.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-009",
@@ -10711,7 +10897,7 @@
       "title": "參加培訓前查詢僱員再培訓及相關資助",
       "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10719,16 +10905,17 @@
       "original_section": "23.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-010",
       "category": "學習與就業",
       "title": "選擇技能時留意實務操作及現場判斷能力",
-      "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10736,16 +10923,17 @@
       "original_section": "23.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-011",
       "category": "學習與就業",
       "title": "選課前確認職業要求與評核途徑",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10753,16 +10941,17 @@
       "original_section": "23.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-012",
       "category": "學習與就業",
       "title": "查詢香港不同職位實際招聘需求",
-      "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10770,8 +10959,9 @@
       "original_section": "23.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-013",
@@ -10779,7 +10969,7 @@
       "title": "優先考慮能通往實際工作機會的訓練",
       "advice": "先查看僱傭合約與勞工處適用規定，妥善保存工時、薪酬和書面通知。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10787,16 +10977,17 @@
       "original_section": "23.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-014",
       "category": "學習與就業",
       "title": "學習後主動測試能否自己做出答案",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10804,16 +10995,17 @@
       "original_section": "23.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-015",
       "category": "學習與就業",
       "title": "把學習時間分散到多個日子",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10821,16 +11013,17 @@
       "original_section": "23.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-016",
       "category": "學習與就業",
       "title": "學習時用自我測驗取代單純重讀",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10838,16 +11031,17 @@
       "original_section": "23.16",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-017",
       "category": "學習與就業",
       "title": "不同題型穿插練習有助應用",
-      "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10855,16 +11049,17 @@
       "original_section": "23.17",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-018",
       "category": "學習與就業",
       "title": "因應學習目標選擇合適方法",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10872,8 +11067,9 @@
       "original_section": "23.18",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-019",
@@ -10881,7 +11077,7 @@
       "title": "測驗方式應貼近將來實際應用",
       "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10889,8 +11085,9 @@
       "original_section": "23.19",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-020",
@@ -10898,7 +11095,7 @@
       "title": "了解專業資格所需教育及經驗",
       "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10906,8 +11103,9 @@
       "original_section": "23.20",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-021",
@@ -10915,7 +11113,7 @@
       "title": "報考會計等專業考試前核對認可資格",
       "advice": "先查看教育局、院校或考評機構公布的資格、程序與日期，並按自身目標安排。",
       "example": "例如為香港升學或考試作準備時，使用學校與官方網站公布的最新時間表。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10923,8 +11121,9 @@
       "original_section": "23.21",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-022",
@@ -10932,7 +11131,7 @@
       "title": "申請專業認證時保持誠信",
       "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10940,8 +11139,9 @@
       "original_section": "23.22",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-023",
@@ -10949,7 +11149,7 @@
       "title": "取得資格後評估是否有實際職涯回報",
       "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10957,16 +11157,17 @@
       "original_section": "23.23",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G23-024",
       "category": "學習與就業",
       "title": "讀碩士前比較學費、時間與職業目標",
-      "advice": "先查相關課程、資格及評核機構公布的要求，再安排時間及費用。 選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10974,16 +11175,17 @@
       "original_section": "23.24",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G23-025",
       "category": "學習與就業",
       "title": "讀博士前先確認研究與職涯需要",
-      "advice": "選擇學習或轉職前，評估課程時間、費用、資格認受性及香港實際招聘需要。",
+      "advice": "評估學習目標時，把課程費用、時間、認可程度及香港就業需求一起計算，並採用有實證支持的學習方法。",
       "example": "例如報讀職業訓練課程前，先檢查招聘廣告所要求的證書、學歷及技能。",
-      "review_status": "一般資訊待編輯審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "教育局",
       "reference_url": "https://www.edb.gov.hk/en/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -10991,16 +11193,17 @@
       "original_section": "23.25",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "一般資訊待編輯審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-001",
       "category": "醫療服務",
       "title": "常見非緊急健康問題可先諮詢基層醫療",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11008,8 +11211,9 @@
       "original_section": "24.1",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-002",
@@ -11017,7 +11221,7 @@
       "title": "求醫前了解醫管局收費及服務資格",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11025,16 +11229,17 @@
       "original_section": "24.2",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G24-003",
       "category": "醫療服務",
       "title": "專科診症轉介應按醫療需要及程序辦理",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11042,8 +11247,9 @@
       "original_section": "24.3",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-004",
@@ -11051,7 +11257,7 @@
       "title": "跨境求醫前核對保障與費用安排",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11059,16 +11265,17 @@
       "original_section": "24.4",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G24-005",
       "category": "醫療服務",
       "title": "每次覆診後整理病歷與檢查報告",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11076,8 +11283,9 @@
       "original_section": "24.5",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-006",
@@ -11085,7 +11293,7 @@
       "title": "醫療紀錄爭議應循醫院及法定程序查詢",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11093,8 +11301,9 @@
       "original_section": "24.6",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G24-007",
@@ -11102,7 +11311,7 @@
       "title": "急重症應及時求助及接受分流評估",
       "advice": "在香港安排求醫時，應按病情輕重選擇醫療服務，先查適用收費、轉介與覆診程序；急症立即求助。",
       "example": "例如需要非緊急專科診症時，先向家庭醫生查詢轉介程序，並保存以往的檢查報告。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11110,8 +11319,9 @@
       "original_section": "24.7",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-008",
@@ -11119,7 +11329,7 @@
       "title": "緊急傷病不應因欠缺文件而延誤求助",
       "advice": "在香港安排求醫時，應按病情輕重選擇醫療服務，先查適用收費、轉介與覆診程序；急症立即求助。",
       "example": "例如需要非緊急專科診症時，先向家庭醫生查詢轉介程序，並保存以往的檢查報告。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11127,16 +11337,17 @@
       "original_section": "24.8",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-009",
       "category": "醫療服務",
       "title": "功能受損評估應在合適醫療階段辦理",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11144,8 +11355,9 @@
       "original_section": "24.9",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-010",
@@ -11153,7 +11365,7 @@
       "title": "有長期功能障礙可查詢本地支援服務",
       "advice": "在香港安排求醫時，應按病情輕重選擇醫療服務，先查適用收費、轉介與覆診程序；急症立即求助。",
       "example": "例如需要非緊急專科診症時，先向家庭醫生查詢轉介程序，並保存以往的檢查報告。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11161,16 +11373,17 @@
       "original_section": "24.10",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G24-011",
       "category": "醫療服務",
       "title": "表達對醫護人員感謝可使用正式渠道",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11178,16 +11391,17 @@
       "original_section": "24.11",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-012",
       "category": "醫療服務",
       "title": "牙科治療前索取詳細報價",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11195,8 +11409,9 @@
       "original_section": "24.12",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-013",
@@ -11204,7 +11419,7 @@
       "title": "處方藥供應或收費疑問先諮詢醫護藥劑師",
       "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "需要香港法規、醫療或政策的獨立核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11212,16 +11427,17 @@
       "original_section": "24.13",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "需要香港法規、醫療或政策的獨立核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "須本地專題審校"
     },
     {
       "id": "G24-014",
       "category": "醫療服務",
       "title": "慢性病續方應經適當醫療評估",
-      "advice": "先記錄症狀、病史及使用中的藥物，向註冊醫護人員確認適合的檢查或治療，不自行改變處方。",
+      "advice": "先判斷是否屬緊急情況，並向合適的香港醫護機構確認收費、轉介、覆診及病歷安排；嚴重急症可致電 999。",
       "example": "例如到診所覆診前，把症狀變化、檢查報告及藥物清單整理好。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11229,8 +11445,9 @@
       "original_section": "24.14",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G24-015",
@@ -11238,7 +11455,7 @@
       "title": "住院期間核對費用及收費項目",
       "advice": "在香港安排求醫時，應按病情輕重選擇醫療服務，先查適用收費、轉介與覆診程序；急症立即求助。",
       "example": "例如需要非緊急專科診症時，先向家庭醫生查詢轉介程序，並保存以往的檢查報告。",
-      "review_status": "需醫護專業審核",
+      "review_status": "一般化文字已改寫，仍須逐項專業核對",
       "reference_label": "醫院管理局",
       "reference_url": "https://www.ha.org.hk/",
       "reference_type": "延伸查閱入口，不代表該機構已核證本條陳述",
@@ -11246,8 +11463,9 @@
       "original_section": "24.15",
       "updated": "2026-10-18",
       "source_tier": "generalized",
-      "display_status": "需醫護專業審核",
-      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對"
+      "display_status": "一般化文字已改寫，仍須逐項專業核對",
+      "evidence_status": "通用化內容整理；專業與政策適用性仍須逐項核對",
+      "editorial_group": "通用化文字已完成"
     },
     {
       "id": "G25-001",
