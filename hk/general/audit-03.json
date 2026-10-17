@@ -1,1013 +1,611 @@
 {
-  "batch": 3,
+  "updated": "2026-10-18",
   "items": [
     {
-      "id": "G17-001",
-      "chapter": "17",
+      "id": "G09-001",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-002",
-      "chapter": "17",
+      "id": "G09-002",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G17-003",
-      "chapter": "17",
+      "id": "G09-003",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G17-004",
-      "chapter": "17",
+      "id": "G09-004",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-005",
-      "chapter": "17",
+      "id": "G09-005",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-006",
-      "chapter": "17",
+      "id": "G09-006",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G17-007",
-      "chapter": "17",
+      "id": "G09-007",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-008",
-      "chapter": "17",
+      "id": "G09-008",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-009",
-      "chapter": "17",
+      "id": "G09-009",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-010",
-      "chapter": "17",
+      "id": "G09-010",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G17-011",
-      "chapter": "17",
+      "id": "G09-011",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-012",
-      "chapter": "17",
+      "id": "G09-012",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G17-013",
-      "chapter": "17",
+      "id": "G09-013",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/17-家里有老人.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G18-001",
-      "chapter": "18",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-002",
-      "chapter": "18",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-003",
-      "chapter": "18",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-004",
-      "chapter": "18",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-005",
-      "chapter": "18",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-006",
-      "chapter": "18",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G18-007",
-      "chapter": "18",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/18-养孩子划不划算.md"
-    },
-    {
-      "id": "G19-001",
-      "chapter": "19",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-002",
-      "chapter": "19",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-003",
-      "chapter": "19",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-004",
-      "chapter": "19",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-005",
-      "chapter": "19",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-006",
-      "chapter": "19",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-007",
-      "chapter": "19",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-008",
-      "chapter": "19",
-      "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-009",
-      "chapter": "19",
-      "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-010",
-      "chapter": "19",
-      "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-011",
-      "chapter": "19",
-      "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-012",
-      "chapter": "19",
-      "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-013",
-      "chapter": "19",
-      "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
-    },
-    {
-      "id": "G19-014",
-      "chapter": "19",
+      "id": "G09-014",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 14,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-015",
-      "chapter": "19",
+      "id": "G09-015",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 15,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-016",
-      "chapter": "19",
+      "id": "G09-016",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 16,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-017",
-      "chapter": "19",
+      "id": "G09-017",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 17,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-018",
-      "chapter": "19",
+      "id": "G09-018",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 18,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-019",
-      "chapter": "19",
+      "id": "G09-019",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 19,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G19-020",
-      "chapter": "19",
+      "id": "G09-020",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 20,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G19-021",
-      "chapter": "19",
+      "id": "G09-021",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 21,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-022",
-      "chapter": "19",
+      "id": "G09-022",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 22,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G19-023",
-      "chapter": "19",
+      "id": "G09-023",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 23,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G19-024",
-      "chapter": "19",
+      "id": "G09-024",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 24,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需香港法例與政策審核",
-      "source_file": "book/19-在职离职和工伤.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G20-001",
-      "chapter": "20",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-002",
-      "chapter": "20",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-003",
-      "chapter": "20",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-004",
-      "chapter": "20",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-005",
-      "chapter": "20",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-006",
-      "chapter": "20",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-007",
-      "chapter": "20",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-008",
-      "chapter": "20",
-      "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-009",
-      "chapter": "20",
-      "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-010",
-      "chapter": "20",
-      "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-011",
-      "chapter": "20",
-      "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-012",
-      "chapter": "20",
-      "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-013",
-      "chapter": "20",
-      "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-014",
-      "chapter": "20",
-      "original_index": 14,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-015",
-      "chapter": "20",
-      "original_index": 15,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-016",
-      "chapter": "20",
-      "original_index": 16,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G20-017",
-      "chapter": "20",
-      "original_index": 17,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/20-刚出生的孩子怎么带.md"
-    },
-    {
-      "id": "G21-001",
-      "chapter": "21",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-002",
-      "chapter": "21",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-003",
-      "chapter": "21",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-004",
-      "chapter": "21",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-005",
-      "chapter": "21",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-006",
-      "chapter": "21",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-007",
-      "chapter": "21",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-008",
-      "chapter": "21",
-      "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-009",
-      "chapter": "21",
-      "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-010",
-      "chapter": "21",
-      "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-011",
-      "chapter": "21",
-      "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-012",
-      "chapter": "21",
-      "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G21-013",
-      "chapter": "21",
-      "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/21-出国旅行与境外安全.md"
-    },
-    {
-      "id": "G22-001",
-      "chapter": "22",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-002",
-      "chapter": "22",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-003",
-      "chapter": "22",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-004",
-      "chapter": "22",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-005",
-      "chapter": "22",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-006",
-      "chapter": "22",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-007",
-      "chapter": "22",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-008",
-      "chapter": "22",
-      "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-009",
-      "chapter": "22",
-      "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-010",
-      "chapter": "22",
-      "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-011",
-      "chapter": "22",
-      "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G22-012",
-      "chapter": "22",
-      "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/22-怎么放松.md"
-    },
-    {
-      "id": "G23-001",
-      "chapter": "23",
-      "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-002",
-      "chapter": "23",
-      "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-003",
-      "chapter": "23",
-      "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-004",
-      "chapter": "23",
-      "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-005",
-      "chapter": "23",
-      "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-006",
-      "chapter": "23",
-      "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-007",
-      "chapter": "23",
-      "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-008",
-      "chapter": "23",
-      "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-009",
-      "chapter": "23",
-      "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-010",
-      "chapter": "23",
-      "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-011",
-      "chapter": "23",
-      "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-012",
-      "chapter": "23",
-      "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-013",
-      "chapter": "23",
-      "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-014",
-      "chapter": "23",
-      "original_index": 14,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-015",
-      "chapter": "23",
-      "original_index": 15,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-016",
-      "chapter": "23",
-      "original_index": 16,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-017",
-      "chapter": "23",
-      "original_index": 17,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-018",
-      "chapter": "23",
-      "original_index": 18,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-019",
-      "chapter": "23",
-      "original_index": 19,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-020",
-      "chapter": "23",
-      "original_index": 20,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-021",
-      "chapter": "23",
-      "original_index": 21,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-022",
-      "chapter": "23",
-      "original_index": 22,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-023",
-      "chapter": "23",
-      "original_index": 23,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-024",
-      "chapter": "23",
-      "original_index": 24,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
-    },
-    {
-      "id": "G23-025",
-      "chapter": "23",
+      "id": "G09-025",
+      "topic": "09-普通人容易踩的法律红线",
       "original_index": 25,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "一般資訊待編輯審核",
-      "source_file": "book/23-学什么技能划算.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-001",
-      "chapter": "24",
+      "id": "G09-026",
+      "topic": "09-普通人容易踩的法律红线",
+      "original_index": 26,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G09-027",
+      "topic": "09-普通人容易踩的法律红线",
+      "original_index": 27,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G09-028",
+      "topic": "09-普通人容易踩的法律红线",
+      "original_index": 28,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G09-029",
+      "topic": "09-普通人容易踩的法律红线",
+      "original_index": 29,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-001",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 1,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-002",
-      "chapter": "24",
+      "id": "G10-002",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 2,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-003",
-      "chapter": "24",
+      "id": "G10-003",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 3,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-004",
-      "chapter": "24",
+      "id": "G10-004",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 4,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-005",
-      "chapter": "24",
+      "id": "G10-005",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 5,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-006",
-      "chapter": "24",
+      "id": "G10-006",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 6,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-007",
-      "chapter": "24",
+      "id": "G10-007",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 7,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G24-008",
-      "chapter": "24",
+      "id": "G10-008",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 8,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-009",
-      "chapter": "24",
+      "id": "G10-009",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 9,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-010",
-      "chapter": "24",
+      "id": "G10-010",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 10,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G24-011",
-      "chapter": "24",
+      "id": "G10-011",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 11,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "一般化建議"
     },
     {
-      "id": "G24-012",
-      "chapter": "24",
+      "id": "G10-012",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 12,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G24-013",
-      "chapter": "24",
+      "id": "G10-013",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 13,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G24-014",
-      "chapter": "24",
+      "id": "G10-014",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 14,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
     },
     {
-      "id": "G24-015",
-      "chapter": "24",
+      "id": "G10-015",
+      "topic": "10-恋爱和结婚划不划算",
       "original_index": 15,
-      "status": "已建立香港通用內容草稿，待主題審核",
-      "review_status": "需醫護專業審核",
-      "source_file": "book/24-看病.md"
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G10-016",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 16,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-017",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 17,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-018",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 18,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G10-019",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 19,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-020",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 20,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-021",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 21,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G10-022",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 22,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G10-023",
+      "topic": "10-恋爱和结婚划不划算",
+      "original_index": 23,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-001",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 1,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-002",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 2,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-003",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 3,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-004",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 4,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-005",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 5,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-006",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 6,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-007",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 7,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-008",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 8,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-009",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 9,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-010",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 10,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-011",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 11,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-012",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 12,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-013",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 13,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-014",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 14,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-015",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 15,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-016",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 16,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-017",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 17,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-018",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 18,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-019",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 19,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G11-020",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 20,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G11-021",
+      "topic": "11-程序员和技术人容易踩的红线",
+      "original_index": 21,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-001",
+      "topic": "12-创业与做生意",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-002",
+      "topic": "12-创业与做生意",
+      "original_index": 2,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-003",
+      "topic": "12-创业与做生意",
+      "original_index": 3,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-004",
+      "topic": "12-创业与做生意",
+      "original_index": 4,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-005",
+      "topic": "12-创业与做生意",
+      "original_index": 5,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-006",
+      "topic": "12-创业与做生意",
+      "original_index": 6,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-007",
+      "topic": "12-创业与做生意",
+      "original_index": 7,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-008",
+      "topic": "12-创业与做生意",
+      "original_index": 8,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-009",
+      "topic": "12-创业与做生意",
+      "original_index": 9,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-010",
+      "topic": "12-创业与做生意",
+      "original_index": 10,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-011",
+      "topic": "12-创业与做生意",
+      "original_index": 11,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-012",
+      "topic": "12-创业与做生意",
+      "original_index": 12,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-013",
+      "topic": "12-创业与做生意",
+      "original_index": 13,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-014",
+      "topic": "12-创业与做生意",
+      "original_index": 14,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-015",
+      "topic": "12-创业与做生意",
+      "original_index": 15,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-016",
+      "topic": "12-创业与做生意",
+      "original_index": 16,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-017",
+      "topic": "12-创业与做生意",
+      "original_index": 17,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-018",
+      "topic": "12-创业与做生意",
+      "original_index": 18,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-019",
+      "topic": "12-创业与做生意",
+      "original_index": 19,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-020",
+      "topic": "12-创业与做生意",
+      "original_index": 20,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-021",
+      "topic": "12-创业与做生意",
+      "original_index": 21,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-022",
+      "topic": "12-创业与做生意",
+      "original_index": 22,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-023",
+      "topic": "12-创业与做生意",
+      "original_index": 23,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-024",
+      "topic": "12-创业与做生意",
+      "original_index": 24,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-025",
+      "topic": "12-创业与做生意",
+      "original_index": 25,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G12-026",
+      "topic": "12-创业与做生意",
+      "original_index": 26,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-027",
+      "topic": "12-创业与做生意",
+      "original_index": 27,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G12-028",
+      "topic": "12-创业与做生意",
+      "original_index": 28,
+      "status": "一般化建議"
     }
   ]
 }
