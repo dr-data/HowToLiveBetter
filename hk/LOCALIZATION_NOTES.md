@@ -50,6 +50,6 @@ git merge upstream/main
 
 ## 部署注意
 
-截至 2026 年 10 月 18 日，此 fork 未啟用 GitHub Pages，需要在 Settings → Pages 設定從 main 根目錄部署。GitHub Actions 在本次 PR 中未能啟動執行步驟，不能把失敗的工作流程狀態當作完成驗證。已另外核對資料總數、ID、類別、Markdown 與 JSON 的一致性。
+截至 2026 年 10 月 18 日，此 fork 未啟用 GitHub Pages，需要在 Settings → Pages 設定從 main 根目錄部署。**此 fork 不使用 GitHub Actions，也沒有自動化 CI、電子書建置或 Release 發布。** 請在本地執行 `node hk/build.mjs` 及 `node hk/build.mjs --check`，並按需要手動執行其他建置工具。已另行核對香港版資料總數、ID、類別，以及 Markdown 與 JSON 的一致性。未來從上游合併更新時，注意不要把 `.github/workflows/` 的 Actions 工作流程重新帶入。
 
 本次資料核對：2026 年 10 月 18 日。

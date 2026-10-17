@@ -79,6 +79,8 @@ node hk/build.mjs --check
 
 這會從 JSON 重新建立本目錄的 12 個 Markdown 章節，並確認內容和資料格式一致。靜態網站 [index.html](index.html) 會直接讀取 JSON，因此毋須額外編譯。
 
+**本儲存庫不使用 GitHub Actions。** 更新與驗證需手動執行上述指令，提交檔案後即可供 GitHub 閱讀。如需要 EPUB、PDF 或其他衍生格式，請在本地使用適當建置工具，並自行發布。GitHub Pages 可選擇直接從 `main` 分支根目錄部署，毋須設定 Actions workflow。
+
 ## 使用聲明與署名
 
 本版提供一般教育資訊，不構成醫療、法律、財務或社會福利資格意見。如有緊急生命危險，請致電 999。
