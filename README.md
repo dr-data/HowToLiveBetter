@@ -1,5 +1,28 @@
 <div align="center">
 
+# 🇭🇰 生活得更好｜香港版
+
+### 香港繁體中文 · 香港法律與公共服務 · 本地例子及統計
+
+**[📖 香港版指南與 12 個章節](hk/README.md)**　｜　[🔎 查看 67 項香港條目](hk/data.json)　｜　[🌐 搜尋網站（啟用 Pages 後）](https://dr-data.github.io/HowToLiveBetter/)
+
+目前已重新編寫 **67 項香港生活建議**，涵蓋急救、醫療、勞工、綜援、強積金、公屋、理財、防騙、創業、婚育、教育及旅遊。每項都列有香港例子、官方資料來源及核對日期。
+
+**注意：這是香港本地化初版，並非原著 765 項內容的完整繁體翻譯。** 原著涉及的中國內地法律、醫保及統計並不直接適用於香港。本版保留原始內容供比較，避免誤導讀者。
+
+[🛠️ 本地化進度與審校規則](hk/LOCALIZATION_NOTES.md)　｜　[📮 回報錯誤](https://github.com/dr-data/HowToLiveBetter/issues)
+
+<sub>截至 2026 年 10 月 18 日，此 fork 尚未啟用 GitHub Pages。先閱讀 Markdown 章節，或依香港版指南啟用搜尋網站。</sub>
+
+</div>
+
+---
+
+<details>
+<summary><strong>📚 展開原著：中國內地版本（簡體中文，共 765 項）</strong></summary>
+
+<div align="center">
+
 <img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
 
 # 高性价比人生指南
@@ -342,3 +365,6 @@ A 级只说明「有具体数字、出处可核」，不说明这个数字一定
 ## 商务合作
 
 邮箱 [admin@mcyyy.com](mailto:admin@mcyyy.com)
+
+
+</details>
