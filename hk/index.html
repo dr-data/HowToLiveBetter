@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-Hant-HK">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#173a41">
+<meta name="description" content="香港繁體中文版循證生活指南。按香港法例、醫管局、勞工處、積金局及政府統計處資料整理，逐項連接官方來源。">
+<meta property="og:locale" content="zh_HK">
+<title>生活得更好 · 香港版</title>
+<style>
+:root{color-scheme:light;--ink:#162c31;--muted:#52666d;--line:#dce6e3;--accent:#0a7069;--bg:#f6f9f7;--paper:#fff;--warm:#fef9ed;--blue:#edf5f8}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 -apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif}
+a{color:var(--accent)}a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid #f1a833;outline-offset:2px}
+.container{max-width:1170px;margin:auto;padding:0 24px}
+header{background:var(--paper);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+.top{min-height:65px;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.logo{text-decoration:none;font-size:18px;color:var(--ink);font-weight:800;letter-spacing:.02em}
+.logo span{color:var(--accent)}
+nav{display:flex;flex-wrap:wrap;gap:14px;font-size:13px}nav a{text-decoration:none;color:var(--muted)}
+.hero{background:linear-gradient(145deg,#123941,#16645f);color:#fff;padding:62px 0 56px}
+.kicker{font-size:13px;letter-spacing:.14em;opacity:.85;font-weight:700}
+.hero h1{font-size:clamp(32px,5vw,56px);line-height:1.17;max-width:740px;margin:13px 0 22px;letter-spacing:-.04em}
+.hero p{max-width:760px;font-size:17px;color:#d6efec;margin:0 0 24px}
+.hero .small{color:#c2dfda;font-size:13px;margin-top:18px}
+.statgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:35px}
+.stat{padding:16px 18px;border:1px solid #ffffff35;border-radius:13px;background:#ffffff0c}
+.stat b{display:block;font-size:25px;line-height:1.2}.stat span{font-size:12px;color:#d6efec}
+.notice{margin:26px 0;padding:20px 24px;border:1px solid #eddfa5;background:var(--warm);border-radius:14px;font-size:14px}
+.notice strong{display:block;margin-bottom:4px}
+.urgent{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:0 0 34px}
+.urgent a{display:inline-flex;align-items:center;gap:8px;text-decoration:none;padding:8px 14px;background:var(--paper);border:1px solid var(--line);border-radius:999px;color:var(--ink);font-weight:700}
+.urgent .alarm{background:#ffedeb;border-color:#f5cac7;color:#902d24}
+.sectiontitle{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:24px 0 12px}
+.sectiontitle h2{font-size:25px;margin:0}.sectiontitle p{color:var(--muted);font-size:13px;margin:0}
+.controls{position:sticky;top:65px;z-index:5;background:var(--bg);padding:14px 0 12px;border-bottom:1px solid var(--line)}
+.search{width:100%;border:1px solid #bbcfc9;outline:none;padding:15px 17px;border-radius:12px;background:#fff;color:var(--ink);font:inherit}
+.search:focus{border-color:var(--accent);box-shadow:0 0 0 3px #0a70691a}
+.pills{display:flex;overflow:auto;gap:8px;margin-top:12px;padding:1px 0 8px}
+.pills button{font:inherit;white-space:nowrap;padding:6px 14px;font-size:13px;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--ink);cursor:pointer}
+.pills button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.results{font-size:13px;color:var(--muted);margin:18px 0}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-bottom:55px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:23px;box-shadow:0 1px 5px #142a2910;display:flex;flex-direction:column;gap:10px}
+.card h3{font-size:19px;line-height:1.4;margin:0}.card p{margin:0;font-size:14px}
+.card .category{color:var(--accent);font-weight:700;font-size:12px}
+.card .example{background:var(--blue);padding:11px 14px;border-radius:9px}
+.card .source{margin-top:auto;padding-top:10px;border-top:1px solid var(--line);font-size:12px}
+.card .source a{overflow-wrap:anywhere}
+.card .id{font-size:11px;color:#718084;float:right}
+.empty{padding:38px 20px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:12px}
+footer{padding:36px 0 54px;background:#eaf2ee;color:#3b5155;font-size:13px}
+footer p{max-width:850px}
+footer a{margin-right:12px}
+@media(max-width:730px){.container{padding:0 16px}.hero{padding:40px 0 35px}.hero h1{font-size:37px}.statgrid{grid-template-columns:repeat(2,1fr)}.cards{grid-template-columns:1fr}.sectiontitle{display:block}.controls{top:65px}.top{gap:8px;min-height:65px}.logo{font-size:15px}nav{font-size:12px;gap:7px}nav .long{display:none}}
+@media(prefers-color-scheme:dark){:root{color-scheme:dark;--ink:#eaf8f4;--muted:#b2c7c5;--line:#344f52;--accent:#76d4c9;--bg:#142427;--paper:#1e3437;--warm:#393322;--blue:#243b43}.hero{background:linear-gradient(145deg,#10383e,#1f625c)}.urgent .alarm{background:#50312d;color:#ffd3c8}.urgent a{color:var(--ink)}}
+</style>
+</head>
+<body>
+<header><div class="container top"><a class="logo" href="./">✓ <span>生活得更好</span>　香港版</a><nav><a href="#topics">查閱建議</a><a href="./README.md" class="long">編輯說明</a><a href="../index.html?edition=cn">原版（內地）</a><a href="https://github.com/dr-data/HowToLiveBetter" target="_blank" rel="noopener noreferrer" class="long">GitHub</a></nav></div></header>
+<main>
+<section class="hero"><div class="container">
+<div class="kicker">HONG KONG · 繁體中文 · 2026</div>
+<h1>用可信的香港資料，<br>作出更好的生活決定。</h1>
+<p>醫療、勞工權益、住房、理財、育兒、防騙、創業及出行。每一項均列出實際做法、本地例子及可點閱的官方來源。本版獨立核對香港制度，不把中國內地的規定直接當作香港法例。</p>
+<div class="statgrid"><div class="stat"><b id="count">67</b><span>首批香港建議</span></div><div class="stat"><b id="catcount">12</b><span>主題類別</span></div><div class="stat"><b>2026</b><span>本地法規和數據</span></div><div class="stat"><b>官方</b><span>每項均列來源</span></div></div>
+<p class="small">最近核對：2026 年 10 月 18 日。此為持續本地化版本，並非原書 765 條建議的完整翻譯。</p>
+</div></section>
+<div class="container">
+<div class="notice"><strong>使用前請留意</strong>本網站供教育及一般資料查閱，不能代替醫生、律師、社工或專業財務意見。法例、收費、津貼及申請資格可能更新，請以相關香港主管部門最新公布為準。如有即時危險，請致電 999。所有統計數字均須連同統計年度與口徑閱讀。</div>
+<div class="urgent"><a class="alarm" href="tel:999">🚨 緊急求助 999</a><a href="tel:18222">🛡️ 防騙易 18222</a><a href="tel:1823">🏛️ 政府查詢 1823</a><a href="tel:1868">✈️ 境外求助 1868</a></div>
+<div id="topics" class="sectiontitle"><h2>按你的情況尋找建議</h2><p>可搜尋關鍵字，亦可按主題篩選</p></div>
+<div class="controls"><input id="search" class="search" type="search" aria-label="搜尋建議" placeholder="試試搜尋：年假、急症室、強積金、公屋、詐騙……"><div id="filters" class="pills" aria-label="主題篩選"></div></div>
+<div class="results" id="results" aria-live="polite">正在載入香港建議……</div>
+<div id="cards" class="cards" aria-live="polite"></div><div id="empty" class="empty" hidden>沒有符合條件的建議。請更改關鍵字或切換主題。</div>
+</div></main>
+<footer><div class="container"><strong>關於版本與授權</strong><p>香港版由 <a href="https://github.com/dr-data/HowToLiveBetter">dr-data/HowToLiveBetter</a> 整理，改編自 <a href="https://github.com/eternity4719/HowToLiveBetter">eternity4719/HowToLiveBetter</a> 的項目構想。原項目文字採用 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> 授權。本地新增條目與原書不是逐項等價翻譯。若要查看原始中國內地章節，請使用 <a href="../index.html?edition=cn">原版檢索</a>。</p><p>香港版的政策及統計內容均附來源，並標明核對日期。發現錯誤可在 <a href="https://github.com/dr-data/HowToLiveBetter/issues">本儲存庫提出 Issue</a>。</p></div></footer>
+<script>
+(function(){
+'use strict';
+const input=document.getElementById('search'), filters=document.getElementById('filters'), cards=document.getElementById('cards'), result=document.getElementById('results'), empty=document.getElementById('empty');
+let dataset=null, selected='全部';
+function el(tag, cls, txt){const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n}
+function link(text,href){const a=document.createElement('a');a.textContent=text;a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a}
+function buildFilters(){filters.replaceChildren();for(const [name,icon] of [['全部','📖'],...Object.entries(dataset.categories)]){const b=el('button','',icon+' '+name);b.type='button';b.setAttribute('aria-pressed',String(selected===name));b.onclick=()=>{selected=name;buildFilters();render()};filters.append(b)}}
+function render(){if(!dataset)return;const q=input.value.trim().toLocaleLowerCase('zh-Hant-HK');const items=dataset.items.filter(i=>(selected==='全部'||i.category===selected)&&(!q||[i.title,i.advice,i.example,i.category].join(' ').toLocaleLowerCase('zh-Hant-HK').includes(q)));cards.replaceChildren();for(const item of items){const c=el('article','card');const top=el('div','category',dataset.categories[item.category]+' '+item.category);top.append(el('span','id',item.id));c.append(top,el('h3','',item.title),el('p','',item.advice),el('p','example','香港例子：'+item.example));const src=el('div','source');src.append('資料來源：',link(item.source,item.url),'　·　核對：'+item.verified);c.append(src);cards.append(c)}result.textContent='顯示 '+items.length+' 項建議，共 '+dataset.items.length+' 項香港資料';empty.hidden=items.length!==0;document.getElementById('count').textContent=dataset.items.length;document.getElementById('catcount').textContent=Object.keys(dataset.categories).length}
+input.addEventListener('input',render);
+fetch('./data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!data||!Array.isArray(data.items)||!data.categories)throw Error('資料格式錯誤');dataset=data;buildFilters();render()}).catch(()=>{result.textContent='無法載入資料。請透過網站伺服器瀏覽，不要直接以 file:// 開啟。';cards.replaceChildren();empty.hidden=true});
+})();
+</script>
+</body></html>
