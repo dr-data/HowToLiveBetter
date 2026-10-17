@@ -2,6 +2,24 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
+<script>
+/* 香港 fork 網站預設顯示香港繁體版。原版可用 ?edition=cn 瀏覽。
+ * 僅在入口頁執行，避免影響上游離線單檔 HTML、EPUB、PDF、Anki。 */
+(function(){
+  try {
+    if (location.protocol !== 'http:' && location.protocol !== 'https:') return;
+    if (!/(?:\\/|\\/index\\.html)$/.test(location.pathname)) return;
+    const here = new URL(location.href);
+    if (here.searchParams.get('edition') === 'cn') return;
+    const hk = new URL('hk/', here.href);
+    const query = new URLSearchParams(here.search);
+    query.delete('edition');
+    hk.search = query.toString();
+    hk.hash = here.hash;
+    location.replace(hk.href);
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>高性价比人生指南 · 用最少的钱、时间和精力换回寿命、金钱和人身自由</title>
 <meta name="description" content="按性价比算账的人生指南：765 条建议，覆盖长寿防病、意外急救、省钱理财、防骗与法律红线、失业兜底、创业风险、恋爱婚育、出国与技能。每条写明成本、收益、证据等级和原始出处，可按钱、时间、毅力三个成本维度检索。">

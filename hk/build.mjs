@@ -25,7 +25,7 @@ function renderTopic(key){
   return [
     '# '+source.categories[key]+' '+key,
     '',
-    '> 香港繁體中文版。資料核對：'+source.updated.replaceAll('-',' 年 ').replace(' 年 ',' 年 ').replace(' 年 ',' 年 ')+'。政策、收費與數據會變動，以主管部門最新公布為準。本頁不取代法律、醫療或財務專業意見.',
+    '> 香港繁體中文版。資料核對：'+source.updated.slice(0,4)+' 年 '+Number(source.updated.slice(5,7))+' 月 '+Number(source.updated.slice(8,10))+' 日。政策、收費與數據會變動，以主管部門最新公布為準。本頁不取代法律、醫療或財務專業意見。',
     '',
     '[← 香港版總目錄](../README.md)　｜　[互動搜尋頁](../index.html)',
     '',

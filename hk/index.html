@@ -56,7 +56,7 @@ footer a{margin-right:12px}
 </style>
 </head>
 <body>
-<header><div class="container top"><a class="logo" href="./">✓ <span>生活得更好</span>　香港版</a><nav><a href="#topics">查閱建議</a><a href="./README.md" class="long">編輯說明</a><a href="../index.html?edition=cn">原版（內地）</a><a href="https://github.com/dr-data/HowToLiveBetter" target="_blank" rel="noopener noreferrer" class="long">GitHub</a></nav></div></header>
+<header><div class="container top"><a class="logo" href="./">✓ <span>生活得更好</span>　香港版</a><nav><a href="#topics">查閱建議</a><a href="https://github.com/dr-data/HowToLiveBetter/blob/main/hk/README.md" class="long">編輯說明</a><a href="../index.html?edition=cn">原版（內地）</a><a href="https://github.com/dr-data/HowToLiveBetter" target="_blank" rel="noopener noreferrer" class="long">GitHub</a></nav></div></header>
 <main>
 <section class="hero"><div class="container">
 <div class="kicker">HONG KONG · 繁體中文 · 2026</div>
@@ -83,6 +83,7 @@ function el(tag, cls, txt){const n=document.createElement(tag);if(cls)n.classNam
 function link(text,href){const a=document.createElement('a');a.textContent=text;a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a}
 function buildFilters(){filters.replaceChildren();for(const [name,icon] of [['全部','📖'],...Object.entries(dataset.categories)]){const b=el('button','',icon+' '+name);b.type='button';b.setAttribute('aria-pressed',String(selected===name));b.onclick=()=>{selected=name;buildFilters();render()};filters.append(b)}}
 function render(){if(!dataset)return;const q=input.value.trim().toLocaleLowerCase('zh-Hant-HK');const items=dataset.items.filter(i=>(selected==='全部'||i.category===selected)&&(!q||[i.title,i.advice,i.example,i.category].join(' ').toLocaleLowerCase('zh-Hant-HK').includes(q)));cards.replaceChildren();for(const item of items){const c=el('article','card');const top=el('div','category',dataset.categories[item.category]+' '+item.category);top.append(el('span','id',item.id));c.append(top,el('h3','',item.title),el('p','',item.advice),el('p','example','香港例子：'+item.example));const src=el('div','source');src.append('資料來源：',link(item.source,item.url),'　·　核對：'+item.verified);c.append(src);cards.append(c)}result.textContent='顯示 '+items.length+' 項建議，共 '+dataset.items.length+' 項香港資料';empty.hidden=items.length!==0;document.getElementById('count').textContent=dataset.items.length;document.getElementById('catcount').textContent=Object.keys(dataset.categories).length}
+input.value=new URLSearchParams(location.search).get('q')||'';
 input.addEventListener('input',render);
 fetch('./data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!data||!Array.isArray(data.items)||!data.categories)throw Error('資料格式錯誤');dataset=data;buildFilters();render()}).catch(()=>{result.textContent='無法載入資料。請透過網站伺服器瀏覽，不要直接以 file:// 開啟。';cards.replaceChildren();empty.hidden=true});
 })();
