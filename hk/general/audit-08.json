@@ -1,0 +1,389 @@
+{
+  "updated": "2026-10-18",
+  "items": [
+    {
+      "id": "G29-001",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-002",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 2,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-003",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 3,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-004",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 4,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-005",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 5,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-006",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 6,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-007",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 7,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-008",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 8,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-009",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 9,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-010",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 10,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-011",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 11,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G29-012",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 12,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G29-013",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 13,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G29-014",
+      "topic": "29-遭遇重大打击之后",
+      "original_index": 14,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-001",
+      "topic": "30-上学以后的孩子",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-002",
+      "topic": "30-上学以后的孩子",
+      "original_index": 2,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-003",
+      "topic": "30-上学以后的孩子",
+      "original_index": 3,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-004",
+      "topic": "30-上学以后的孩子",
+      "original_index": 4,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-005",
+      "topic": "30-上学以后的孩子",
+      "original_index": 5,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-006",
+      "topic": "30-上学以后的孩子",
+      "original_index": 6,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-007",
+      "topic": "30-上学以后的孩子",
+      "original_index": 7,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-008",
+      "topic": "30-上学以后的孩子",
+      "original_index": 8,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-009",
+      "topic": "30-上学以后的孩子",
+      "original_index": 9,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-010",
+      "topic": "30-上学以后的孩子",
+      "original_index": 10,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G30-011",
+      "topic": "30-上学以后的孩子",
+      "original_index": 11,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-012",
+      "topic": "30-上学以后的孩子",
+      "original_index": 12,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-013",
+      "topic": "30-上学以后的孩子",
+      "original_index": 13,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-014",
+      "topic": "30-上学以后的孩子",
+      "original_index": 14,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-015",
+      "topic": "30-上学以后的孩子",
+      "original_index": 15,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-016",
+      "topic": "30-上学以后的孩子",
+      "original_index": 16,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-017",
+      "topic": "30-上学以后的孩子",
+      "original_index": 17,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-018",
+      "topic": "30-上学以后的孩子",
+      "original_index": 18,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-019",
+      "topic": "30-上学以后的孩子",
+      "original_index": 19,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-020",
+      "topic": "30-上学以后的孩子",
+      "original_index": 20,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G30-021",
+      "topic": "30-上学以后的孩子",
+      "original_index": 21,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-001",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-002",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 2,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-003",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 3,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-004",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 4,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-005",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 5,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-006",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 6,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-007",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 7,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-008",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 8,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-009",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 9,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-010",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 10,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-011",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 11,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-012",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 12,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-013",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 13,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-014",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 14,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-015",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 15,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G31-016",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 16,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G31-017",
+      "topic": "31-十八岁之后有哪几条路",
+      "original_index": 17,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G32-001",
+      "topic": "32-出国留学",
+      "original_index": 1,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-002",
+      "topic": "32-出国留学",
+      "original_index": 2,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G32-003",
+      "topic": "32-出国留学",
+      "original_index": 3,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-004",
+      "topic": "32-出国留学",
+      "original_index": 4,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-005",
+      "topic": "32-出国留学",
+      "original_index": 5,
+      "status": "需要獨立本地審查"
+    },
+    {
+      "id": "G32-006",
+      "topic": "32-出国留学",
+      "original_index": 6,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-007",
+      "topic": "32-出国留学",
+      "original_index": 7,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-008",
+      "topic": "32-出国留学",
+      "original_index": 8,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-009",
+      "topic": "32-出国留学",
+      "original_index": 9,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-010",
+      "topic": "32-出国留学",
+      "original_index": 10,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-011",
+      "topic": "32-出国留学",
+      "original_index": 11,
+      "status": "一般化建議"
+    },
+    {
+      "id": "G32-012",
+      "topic": "32-出国留学",
+      "original_index": 12,
+      "status": "一般化建議"
+    }
+  ]
+}
