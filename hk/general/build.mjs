@@ -25,6 +25,8 @@ for(const item of source.items||[]){
   if(adviceSeen.has(item.advice))issues.push('重複建議 '+item.id);adviceSeen.add(item.advice);
   if(exampleSeen.has(item.example))issues.push('重複例子 '+item.id);exampleSeen.add(item.example);
   if(template.test(item.example))issues.push('例子重複標題 '+item.id);
+  if(item.example.includes('「'+item.title+'」'))issues.push('生活情境照抄標題 '+item.id);
+  if(item.advice.startsWith(item.title+'。'))issues.push('建議僅照抄標題 '+item.id);
 }
 function chapter(no){
   const chapterNum=String(no).padStart(2,'0');
