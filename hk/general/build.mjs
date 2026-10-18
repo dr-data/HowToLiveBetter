@@ -11,6 +11,8 @@ const check=process.argv.includes('--check');
 const issues=[];
 if(!Array.isArray(source.items)||source.items.length!==765)issues.push('預期 765 項');
 const seen=new Set();
+const adviceSeen=new Set(), exampleSeen=new Set();
+const template=/(?:按「[^」]+」|按照「[^」]+」|針對「[^」]+」)/;
 const geo=/(?:中國|中国|內地|内地|大陸|大陆|人民幣|人民币|國務院|国务院|全國|全国|公安|社保|醫保|医保|公積金|公积金|123\d{2,3})/;
 for(const item of source.items||[]){
   if(seen.has(item.id))issues.push('重複 ID '+item.id);seen.add(item.id);
@@ -20,6 +22,9 @@ for(const item of source.items||[]){
   }
   if(geo.test([item.title,item.advice,item.example].join(' ')))issues.push('案例涉及其他地區制度 '+item.id);
   if(!item.reference_url?.startsWith('https://'))issues.push('參考連結格式有誤 '+item.id);
+  if(adviceSeen.has(item.advice))issues.push('重複建議 '+item.id);adviceSeen.add(item.advice);
+  if(exampleSeen.has(item.example))issues.push('重複例子 '+item.id);exampleSeen.add(item.example);
+  if(template.test(item.example))issues.push('例子重複標題 '+item.id);
 }
 function chapter(no){
   const chapterNum=String(no).padStart(2,'0');
