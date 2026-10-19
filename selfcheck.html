@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>生活自查 · 高性价比人生指南</title>
-<meta name="description" content="回答一组是否题，看看书里哪些事你还没做到：哪一块漏得最多、先做哪几件、哪些一次办完就行。每条单独给出证据和出处，不汇总成「少活几年」。">
+<title>生活自查 · 高性價比人生指南</title>
+<meta name="description" content="回答一組是否題，看看書裡哪些事你還沒做到：哪一塊漏得最多、先做哪幾件、哪些一次辦完就行。每條單獨給出證據和出處，不彙總成「少活幾年」。">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%233451b2'/%3E%3Cpath d='M17 33l10 11 20-24' fill='none' stroke='white' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <script>(function(){try{var s=localStorage.getItem('theme');var d=s?s==='dark':matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark')}catch(e){}})();</script>
 <style>
-/* 配色、字体与 index.html 同一套（VitePress 默认主题） */
+/* 配色、字體與 index.html 同一套（VitePress 默認主題） */
 :root{
   --bg:#ffffff; --bg-alt:#f6f6f7; --bg-soft:#f6f6f7; --bg-mute:#f1f1f2;
   --divider:#e2e2e3;
@@ -124,156 +124,156 @@ html.dark .btn{color:#1b1b1f}
 </head>
 <body>
 <header class="nav">
-  <a class="title" href="./">高性价比人生指南</a>
+  <a class="title" href="./">高性價比人生指南</a>
   <span class="sp"></span>
-  <a class="back" href="./">回检索页</a>
+  <a class="back" href="./">回檢索頁</a>
 </header>
 <main class="wrap">
-  <div id="status">正在读取正文 …</div>
+  <div id="status">正在讀取正文 …</div>
 
   <section id="ask" hidden>
     <h1>生活自查</h1>
-    <p class="lead">回答下面的问题，看看书里哪些事你还没做到。结果会告诉你哪一块漏得最多、先做哪几件、哪些一次办完就行。每条单独给出证据和出处，不汇总成一个分数。</p>
+    <p class="lead">回答下面的問題，看看書裡哪些事你還沒做到。結果會告訴你哪一塊漏得最多、先做哪幾件、哪些一次辦完就行。每條單獨給出證據和出處，不彙總成一個分數。</p>
     <div id="qs"></div>
     <div class="bar">
       <span class="prog" id="prog"></span>
       <button class="btn ghost" id="reset" type="button">清空</button>
-      <button class="btn" id="go" type="button">看结果</button>
+      <button class="btn" id="go" type="button">看結果</button>
     </div>
   </section>
 
   <section id="out" hidden>
-    <h1>自查结果</h1>
+    <h1>自查結果</h1>
     <p class="verdict" id="verdict"></p>
     <div class="sum" id="sum"></div>
-    <h2>哪一块漏得最多<small>按做到的比例从低到高排</small></h2>
+    <h2>哪一塊漏得最多<small>按做到的比例從低到高排</small></h2>
     <div id="bars"></div>
     <div id="todo"></div>
-    <div class="note"><b>为什么不算「少活几年」：</b>每条的数字来自不同研究、不同人群，而且抽烟、不运动、睡得差这些习惯常常一起出现。把各条的风险乘到一起会重复计算，算出来的年数会偏大，偏多少也说不清。所以每条只给它自己那份证据。</div>
-    <h2 id="done-h">已经做到的</h2>
+    <div class="note"><b>為什麼不算「少活幾年」：</b>每條的數字來自不同研究、不同人群，而且抽煙、不運動、睡得差這些習慣常常一起出現。把各條的風險乘到一起會重複計算，算出來的年數會偏大，偏多少也說不清。所以每條只給它自己那份證據。</div>
+    <h2 id="done-h">已經做到的</h2>
     <ul class="done-list" id="done"></ul>
     <div class="bar">
-      <span class="prog">答案只存在你这台设备的浏览器里。</span>
+      <span class="prog">答案只存在你這台設備的瀏覽器裡。</span>
       <button class="btn ghost" id="back" type="button">改答案</button>
     </div>
   </section>
 </main>
 
 <script>
-/* 题目表。sec + key 按「第几节、标题里含哪段字」找条目，不写条号，插条目顺延时不会指歪；
-   找不到就在控制台报错并跳过这题。
-   when(p) 按基本情况决定这题问不问；also 是没做到时顺带列出的相关条目。 */
+/* 題目表。sec + key 按「第幾節、標題裡含哪段字」找條目，不寫條號，插條目順延時不會指歪；
+   找不到就在控制台報錯並跳過這題。
+   when(p) 按基本情況決定這題問不問；also 是沒做到時順帶列出的相關條目。 */
 const PROFILE = [
-  {id:'age', text:'你的年龄', opts:[['<30','30 岁以下'],['30','30–44'],['45','45–59'],['60','60 岁以上']]},
-  {id:'sex', text:'你的性别', opts:[['m','男'],['f','女']]},
-  {id:'kid', text:'家里有 4 岁以下的孩子吗', opts:[['y','有'],['n','没有']]},
+  {id:'age', text:'你的年齡', opts:[['<30','30 歲以下'],['30','30–44'],['45','45–59'],['60','60 歲以上']]},
+  {id:'sex', text:'你的性別', opts:[['m','男'],['f','女']]},
+  {id:'kid', text:'家裡有 4 歲以下的孩子嗎', opts:[['y','有'],['n','沒有']]},
 ];
 const ageAtLeast = (p, a) => ({'<30':20,'30':30,'45':45,'60':60})[p.age] >= a;
 const GROUPS = [
-  {name:'烟、酒和槟榔', mod:'身体', qs:[
-    {sec:2, key:'戒烟，越早越好', text:'不抽烟，或者已经戒了', also:[{sec:2, key:'先去拿药'},{sec:2, key:'戒烟门诊'}]},
+  {name:'煙、酒和檳榔', mod:'身體', qs:[
+    {sec:2, key:'戒煙，越早越好', text:'不抽煙，或者已經戒了', also:[{sec:2, key:'先去拿藥'},{sec:2, key:'戒煙門診'}]},
     {sec:2, key:'少喝或不喝酒', text:'不喝酒，或者很少喝'},
-    {sec:2, key:'不嚼槟榔', text:'不嚼槟榔'},
+    {sec:2, key:'不嚼檳榔', text:'不嚼檳榔'},
   ]},
-  {name:'吃喝', mod:'身体', qs:[
-    {sec:2, key:'含糖饮料', text:'基本不喝奶茶、可乐、果汁这类含糖饮料'},
-    {sec:2, key:'加工肉', text:'很少吃火腿、香肠、培根、午餐肉'},
-    {sec:2, key:'全谷物', text:'主食里有一部分是糙米、燕麦、全麦这类全谷物'},
-    {sec:2, key:'5 份', text:'每天吃够一斤左右的水果和蔬菜'},
-    {sec:2, key:'坚果', text:'每天吃一小把坚果'},
-    {sec:2, key:'低钠盐', text:'家里做饭用低钠盐'},
-    {sec:2, key:'滚烫', text:'热茶热汤放一放再喝，不喝滚烫的'},
-    {sec:2, key:'抽油烟机', text:'炒菜时从开火到做完一直开着抽油烟机', hint:'不做饭可以跳过'},
+  {name:'吃喝', mod:'身體', qs:[
+    {sec:2, key:'含糖飲料', text:'基本不喝奶茶、可樂、果汁這類含糖飲料'},
+    {sec:2, key:'加工肉', text:'很少吃火腿、香腸、培根、午餐肉'},
+    {sec:2, key:'全穀物', text:'主食裡有一部分是糙米、燕麥、全麥這類全穀物'},
+    {sec:2, key:'5 份', text:'每天吃夠一斤左右的水果和蔬菜'},
+    {sec:2, key:'堅果', text:'每天吃一小把堅果'},
+    {sec:2, key:'低鈉鹽', text:'家裡做飯用低鈉鹽'},
+    {sec:2, key:'滾燙', text:'熱茶熱湯放一放再喝，不喝滾燙的'},
+    {sec:2, key:'抽油煙機', text:'炒菜時從開火到做完一直開著抽油煙機', hint:'不做飯可以跳過'},
   ]},
-  {name:'动、睡和晒太阳', mod:'身体', qs:[
-    {sec:2, key:'7000', text:'每天走到 7000 步左右，或者每周快走累计 150 分钟以上'},
-    {sec:2, key:'力量训练', text:'每周做点力量训练（俯卧撑、深蹲、器械都算）'},
-    {sec:2, key:'别连着坐太久', text:'不会连着坐好几个小时不起身'},
-    {sec:2, key:'每晚睡 7', text:'每晚睡 7 小时左右，作息基本固定'},
-    {sec:2, key:'晒晒太阳', text:'白天会出门见见太阳，不是整天待在屋里'},
-    {sec:2, key:'BMI', text:'体重在正常范围（BMI 20–25）', hint:'BMI = 体重(公斤) ÷ 身高(米)²'},
-    {sec:2, key:'认真刷牙', text:'每天认真刷牙、清一次牙缝，缺了牙会去补'},
-    {sec:1, key:'平衡和腿部力量', text:'练过平衡和腿部力量，浴室楼梯装了扶手防滑', when:p => ageAtLeast(p,60)},
+  {name:'動、睡和曬太陽', mod:'身體', qs:[
+    {sec:2, key:'7000', text:'每天走到 7000 步左右，或者每週快走累計 150 分鐘以上'},
+    {sec:2, key:'力量訓練', text:'每週做點力量訓練（俯臥撐、深蹲、器械都算）'},
+    {sec:2, key:'別連著坐太久', text:'不會連著坐好幾個小時不起身'},
+    {sec:2, key:'每晚睡 7', text:'每晚睡 7 小時左右，作息基本固定'},
+    {sec:2, key:'曬曬太陽', text:'白天會出門見見太陽，不是整天待在屋裡'},
+    {sec:2, key:'BMI', text:'體重在正常範圍（BMI 20–25）', hint:'BMI = 體重(公斤) ÷ 身高(米)²'},
+    {sec:2, key:'認真刷牙', text:'每天認真刷牙、清一次牙縫，缺了牙會去補'},
+    {sec:1, key:'平衡和腿部力量', text:'練過平衡和腿部力量，浴室樓梯裝了扶手防滑', when:p => ageAtLeast(p,60)},
   ]},
-  {name:'出门和家里的安全', mod:'身体', qs:[
-    {sec:1, key:'系安全带', text:'坐车时前排后排都系安全带'},
-    {sec:1, key:'不酒驾', text:'开车不超速、不酒驾', hint:'不开车可以跳过'},
-    {sec:1, key:'戴头盔', text:'骑电动车、摩托车戴头盔并扣好', hint:'不骑可以跳过'},
-    {sec:1, key:'电动自行车不推进楼道', text:'电动车不推进楼道，不在家里充电', hint:'没有电动车可以跳过'},
-    {sec:1, key:'烟雾报警器', text:'家里装了烟雾报警器'},
-    {sec:1, key:'燃气软管', text:'燃气软管和灶具到期换过，没自己改过管道', hint:'家里不用燃气可以跳过'},
-    {sec:1, key:'野生蘑菇', text:'不采、不买、不吃野生蘑菇'},
-    {sec:1, key:'安全套', text:'和不固定的伴侣发生关系，全程用安全套', hint:'没有这种情况可以跳过'},
-    {sec:1, key:'安全座椅', text:'孩子坐车用安全座椅，不抱在怀里', when:p => p.kid === 'y'},
-    {sec:1, key:'限位器', text:'窗户和阳台装了限位器或护栏', when:p => p.kid === 'y'},
+  {name:'出門和家裡的安全', mod:'身體', qs:[
+    {sec:1, key:'系安全帶', text:'坐車時前排後排都系安全帶'},
+    {sec:1, key:'不酒駕', text:'開車不超速、不酒駕', hint:'不開車可以跳過'},
+    {sec:1, key:'戴頭盔', text:'騎電動車、摩托車戴頭盔並扣好', hint:'不騎可以跳過'},
+    {sec:1, key:'電動自行車不推進樓道', text:'電動車不推進樓道，不在家裡充電', hint:'沒有電動車可以跳過'},
+    {sec:1, key:'煙霧報警器', text:'家裡裝了煙霧報警器'},
+    {sec:1, key:'燃氣軟管', text:'燃氣軟管和灶具到期換過，沒自己改過管道', hint:'家裡不用燃氣可以跳過'},
+    {sec:1, key:'野生蘑菇', text:'不採、不買、不吃野生蘑菇'},
+    {sec:1, key:'安全套', text:'和不固定的伴侶發生關係，全程用安全套', hint:'沒有這種情況可以跳過'},
+    {sec:1, key:'安全座椅', text:'孩子坐車用安全座椅，不抱在懷裡', when:p => p.kid === 'y'},
+    {sec:1, key:'限位器', text:'窗戶和陽台裝了限位器或護欄', when:p => p.kid === 'y'},
   ]},
-  {name:'吃药', mod:'身体', qs:[
-    {sec:34, key:'对乙酰氨基酚', text:'同时吃两种感冒药或止痛药之前，会先看成分表'},
-    {sec:34, key:'普通感冒别找医生要抗生素', text:'普通感冒不找医生要抗生素'},
-    {sec:34, key:'头孢、甲硝唑', text:'吃头孢、甲硝唑期间和停药后一周不喝酒'},
-    {sec:2, key:'有高血压、高血脂', text:'有高血压、高血脂的，在按医嘱规律吃药', hint:'没有这些病可以跳过'},
+  {name:'吃藥', mod:'身體', qs:[
+    {sec:34, key:'對乙酰氨基酚', text:'同時吃兩種感冒藥或止痛藥之前，會先看成分表'},
+    {sec:34, key:'普通感冒別找醫生要抗生素', text:'普通感冒不找醫生要抗生素'},
+    {sec:34, key:'頭孢、甲硝唑', text:'吃頭孢、甲硝唑期間和停藥後一週不喝酒'},
+    {sec:2, key:'有高血壓、高血脂', text:'有高血壓、高血脂的，在按醫囑規律吃藥', hint:'沒有這些病可以跳過'},
   ]},
-  {name:'检查和疫苗', mod:'身体', qs:[
-    {sec:1, key:'量血压', text:'最近一年量过血压，高了在吃药控制'},
-    {sec:1, key:'空腹血糖', text:'查过空腹血糖', when:p => ageAtLeast(p,30)},
-    {sec:1, key:'乙肝两对半', text:'查过乙肝两对半，没抗体的打了疫苗'},
-    {sec:1, key:'幽门螺杆菌', text:'查过幽门螺杆菌'},
-    {sec:1, key:'HPV 疫苗', text:'打过 HPV 疫苗', when:p => p.sex === 'f'},
-    {sec:1, key:'宫颈癌筛查', text:'做过宫颈癌筛查', when:p => p.sex === 'f' && ageAtLeast(p,30)},
-    {sec:1, key:'乳腺癌筛查', text:'近两年做过乳腺钼靶', when:p => p.sex === 'f' && ageAtLeast(p,45)},
-    {sec:1, key:'结直肠癌筛查', text:'做过结直肠癌筛查（大便潜血或肠镜）', when:p => ageAtLeast(p,45)},
+  {name:'檢查和疫苗', mod:'身體', qs:[
+    {sec:1, key:'量血壓', text:'最近一年量過血壓，高了在吃藥控制'},
+    {sec:1, key:'空腹血糖', text:'查過空腹血糖', when:p => ageAtLeast(p,30)},
+    {sec:1, key:'乙肝兩對半', text:'查過乙肝兩對半，沒抗體的打了疫苗'},
+    {sec:1, key:'幽門螺桿菌', text:'查過幽門螺桿菌'},
+    {sec:1, key:'HPV 疫苗', text:'打過 HPV 疫苗', when:p => p.sex === 'f'},
+    {sec:1, key:'宮頸癌篩查', text:'做過宮頸癌篩查', when:p => p.sex === 'f' && ageAtLeast(p,30)},
+    {sec:1, key:'乳腺癌篩查', text:'近兩年做過乳腺鉬靶', when:p => p.sex === 'f' && ageAtLeast(p,45)},
+    {sec:1, key:'結直腸癌篩查', text:'做過結直腸癌篩查（大便潛血或腸鏡）', when:p => ageAtLeast(p,45)},
     {sec:1, key:'流感疫苗', text:'每年打流感疫苗', when:p => ageAtLeast(p,60)},
-    {sec:1, key:'带状疱疹疫苗', text:'打过带状疱疹疫苗', when:p => ageAtLeast(p,60)},
-    {sec:1, key:'肺炎球菌疫苗', text:'打过肺炎球菌疫苗', when:p => ageAtLeast(p,60)},
-    {sec:1, key:'骨密度', text:'做过骨密度检查', when:p => p.sex === 'f' && ageAtLeast(p,60)},
+    {sec:1, key:'帶狀皰疹疫苗', text:'打過帶狀皰疹疫苗', when:p => ageAtLeast(p,60)},
+    {sec:1, key:'肺炎球菌疫苗', text:'打過肺炎球菌疫苗', when:p => ageAtLeast(p,60)},
+    {sec:1, key:'骨密度', text:'做過骨密度檢查', when:p => p.sex === 'f' && ageAtLeast(p,60)},
   ]},
-  {name:'急救常识', mod:'急救常识', qs:[
-    {sec:13, key:'有人倒地没呼吸', text:'看到有人倒地没呼吸，知道要立刻用力按压胸口，并让旁人找 AED'},
-    {sec:13, key:'突然嘴歪', text:'知道突然嘴歪、一侧胳膊没劲要直接打 120，不自己开车去'},
-    {sec:13, key:'胸口压着疼', text:'知道胸口压着疼超过 15 分钟不缓解要打 120'},
-    {sec:13, key:'有人噎住', text:'会给噎住的人做拍背加腹部冲击'},
-    {sec:13, key:'烫伤后', text:'知道烫伤先用凉的流水冲 20 分钟，不抹牙膏酱油'},
-    {sec:13, key:'被狗、猫咬伤', text:'被猫狗咬伤或抓破皮，会先冲洗再当天去打疫苗'},
-    {sec:13, key:'误服', text:'知道误服清洁剂、农药不催吐，带上瓶子去医院'},
-    {sec:13, key:'火灾时', text:'知道火灾时贴地走、先摸门、走楼梯不坐电梯'},
-    {sec:13, key:'婴儿噎住', text:'会给不满 1 岁的婴儿做拍背加按胸', when:p => p.kid === 'y'},
+  {name:'急救常識', mod:'急救常識', qs:[
+    {sec:13, key:'有人倒地沒呼吸', text:'看到有人倒地沒呼吸，知道要立刻用力按壓胸口，並讓旁人找 AED'},
+    {sec:13, key:'突然嘴歪', text:'知道突然嘴歪、一側胳膊沒勁要直接打 120，不自己開車去'},
+    {sec:13, key:'胸口壓著疼', text:'知道胸口壓著疼超過 15 分鐘不緩解要打 120'},
+    {sec:13, key:'有人噎住', text:'會給噎住的人做拍背加腹部衝擊'},
+    {sec:13, key:'燙傷後', text:'知道燙傷先用涼的流水衝 20 分鐘，不抹牙膏醬油'},
+    {sec:13, key:'被狗、貓咬傷', text:'被貓狗咬傷或抓破皮，會先沖洗再當天去打疫苗'},
+    {sec:13, key:'誤服', text:'知道誤服清潔劑、農藥不催吐，帶上瓶子去醫院'},
+    {sec:13, key:'火災時', text:'知道火災時貼地走、先摸門、走樓梯不坐電梯'},
+    {sec:13, key:'嬰兒噎住', text:'會給不滿 1 歲的嬰兒做拍背加按胸', when:p => p.kid === 'y'},
   ]},
-  {name:'精力和情绪', mod:'精力', qs:[
-    {sec:3, key:'关掉非必要通知', text:'关掉了手机上不必要的通知，工作时手机放在看不到的地方'},
-    {sec:3, key:'固定起床时间', text:'周末也基本按平时的时间起床'},
-    {sec:3, key:'下午两点以后', text:'下午两点以后不喝咖啡、浓茶'},
-    {sec:3, key:'到点就睡', text:'不会为了打游戏、刷短视频熬夜'},
-    {sec:3, key:'睡前一小时', text:'睡前一小时不看手机'},
-    {sec:3, key:'别人过得怎么样', text:'不会每天刷同龄人的动态'},
-    {sec:3, key:'49 小时', text:'每周工作时间基本不超过 50 小时', hint:'没在上班可以跳过'},
-    {sec:3, key:'学会拒绝', text:'不想接的请求能说出「不」'},
-    {sec:22, key:'定期和人见面', text:'定期和朋友家人见面，不是心情差了才找人'},
+  {name:'精力和情緒', mod:'精力', qs:[
+    {sec:3, key:'關掉非必要通知', text:'關掉了手機上不必要的通知，工作時手機放在看不到的地方'},
+    {sec:3, key:'固定起牀時間', text:'週末也基本按平時的時間起牀'},
+    {sec:3, key:'下午兩點以後', text:'下午兩點以後不喝咖啡、濃茶'},
+    {sec:3, key:'到點就睡', text:'不會為了打遊戲、刷短視頻熬夜'},
+    {sec:3, key:'睡前一小時', text:'睡前一小時不看手機'},
+    {sec:3, key:'別人過得怎麼樣', text:'不會每天刷同齡人的動態'},
+    {sec:3, key:'49 小時', text:'每週工作時間基本不超過 50 小時', hint:'沒在上班可以跳過'},
+    {sec:3, key:'學會拒絕', text:'不想接的請求能說出「不」'},
+    {sec:22, key:'定期和人見面', text:'定期和朋友家人見面，不是心情差了才找人'},
   ]},
-  {name:'钱', mod:'钱', qs:[
-    {sec:5, key:'自动续费', text:'关掉了不用的自动续费'},
-    {sec:5, key:'个税汇算', text:'每年做个税汇算，该填的专项附加扣除都填了', hint:'没有工资收入可以跳过'},
-    {sec:5, key:'最低还款', text:'不用信用卡最低还款，不开消费分期和消费贷'},
-    {sec:5, key:'先存出', text:'存了 3 到 6 个月生活费的应急金，能随时取'},
-    {sec:5, key:'高收益', text:'看到「保本」「高收益」「稳赚」会直接走开'},
-    {sec:5, key:'家庭共济', text:'在医保 App 上办了家庭共济', hint:'没有职工医保可以跳过'},
-    {sec:5, key:'三者险', text:'开车的话，三者险买够了', hint:'没有车可以跳过'},
-    {sec:5, key:'定期寿险', text:'家里有人靠你的收入过日子，你买了定期寿险', hint:'家里没人靠你收入可以跳过'},
-    {sec:5, key:'宽基指数', text:'长期投资的钱放在宽基指数基金，而不是主动基金或个股', hint:'没有投资可以跳过'},
+  {name:'錢', mod:'錢', qs:[
+    {sec:5, key:'自動續費', text:'關掉了不用的自動續費'},
+    {sec:5, key:'個稅彙算', text:'每年做個稅彙算，該填的專項附加扣除都填了', hint:'沒有工資收入可以跳過'},
+    {sec:5, key:'最低還款', text:'不用信用卡最低還款，不開消費分期和消費貸'},
+    {sec:5, key:'先存出', text:'存了 3 到 6 個月生活費的應急金，能隨時取'},
+    {sec:5, key:'高收益', text:'看到「保本」「高收益」「穩賺」會直接走開'},
+    {sec:5, key:'家庭共濟', text:'在醫保 App 上辦了家庭共濟', hint:'沒有職工醫保可以跳過'},
+    {sec:5, key:'三者險', text:'開車的話，三者險買夠了', hint:'沒有車可以跳過'},
+    {sec:5, key:'定期壽險', text:'家裡有人靠你的收入過日子，你買了定期壽險', hint:'家裡沒人靠你收入可以跳過'},
+    {sec:5, key:'寬基指數', text:'長期投資的錢放在寬基指數基金，而不是主動基金或個股', hint:'沒有投資可以跳過'},
   ]},
-  {name:'账号与防骗', mod:'账号与防骗', qs:[
-    {sec:14, key:'二次验证', text:'邮箱、支付、社交账号都开了二次验证'},
-    {sec:14, key:'邮箱密码单独', text:'邮箱密码单独一个，没在别的网站用过'},
-    {sec:14, key:'锁屏密码', text:'手机设了锁屏密码，SIM 卡设了 PIN 码'},
-    {sec:8, key:'通讯录里的旧号码', text:'家人视频或电话要你转账，会先挂断，用通讯录里的旧号码打回去核实'},
-    {sec:8, key:'不把银行卡', text:'从不把银行卡、手机卡、支付账号借给别人'},
-    {sec:8, key:'征信报告', text:'查过自己的征信报告'},
-    {sec:8, key:'签字前', text:'签字前会把纸看完，不在空白纸上签'},
+  {name:'賬號與防騙', mod:'賬號與防騙', qs:[
+    {sec:14, key:'二次驗證', text:'郵箱、支付、社交賬號都開了二次驗證'},
+    {sec:14, key:'郵箱密碼單獨', text:'郵箱密碼單獨一個，沒在別的網站用過'},
+    {sec:14, key:'鎖屏密碼', text:'手機設了鎖屏密碼，SIM 卡設了 PIN 碼'},
+    {sec:8, key:'通訊錄裡的舊號碼', text:'家人視頻或電話要你轉賬，會先掛斷，用通訊錄裡的舊號碼打回去核實'},
+    {sec:8, key:'不把銀行卡', text:'從不把銀行卡、手機卡、支付賬號借給別人'},
+    {sec:8, key:'徵信報告', text:'查過自己的徵信報告'},
+    {sec:8, key:'簽字前', text:'簽字前會把紙看完，不在空白紙上籤'},
   ]},
 ];
-const MODS = ['身体', '急救常识', '精力', '钱', '账号与防骗'];
+const MODS = ['身體', '急救常識', '精力', '錢', '賬號與防騙'];
 const modOn = m => ans['mod:' + m] !== 'off';
 
-/* 解析：和 index.html 的 parseReadme 同一套格式，只取这里用得到的字段 */
+/* 解析：和 index.html 的 parseReadme 同一套格式，只取這裡用得到的字段 */
 const COST_W = { money:{'0':0,'少':1,'多':2}, time:{'少':0,'中':1,'多':2}, will:{'否':0,'些':1,'是':2} };
 function parse(md){
   const out = []; let sec = null, e = null; let m;
@@ -282,19 +282,19 @@ function parse(md){
     if ((m = /^#{1,2} (\d+)\. /.exec(line))) { sec = +m[1]; e = null; continue; }
     if ((m = /^### (\d+)\. (.+)$/.exec(line)) && sec) { e = {sec, n:+m[1], title:m[2].trim(), human:'', cost:'', grade:'', note:''}; out.push(e); continue; }
     if (!e) continue;
-    if ((m = /^\x3c!--\s*成本标签:\s*(.*?)\s*-->/.exec(line))){
-      for (const kv of m[1].split(/\s+/)){ const [k,v] = kv.split('='); const p = {'钱':'money','时间':'time','毅力':'will','收益':'level','口径':'lens'}[k]; if (p) e[p] = v; }
+    if ((m = /^\x3c!--\s*成本標籤:\s*(.*?)\s*-->/.exec(line))){
+      for (const kv of m[1].split(/\s+/)){ const [k,v] = kv.split('='); const p = {'錢':'money','時間':'time','毅力':'will','收益':'level','口徑':'lens'}[k]; if (p) e[p] = v; }
     }
-    else if ((m = /^- 说人话：(.*)$/.exec(line))) e.human = m[1];
+    else if ((m = /^- 說人話：(.*)$/.exec(line))) e.human = m[1];
     else if ((m = /^- 成本：(.*)$/.exec(line))) e.cost = m[1];
-    else if ((m = /^- 证据等级：\s*([ABC])/.exec(line))) e.grade = m[1];
-    else if ((m = /^- 备注：(.*)$/.exec(line))) e.note = m[1];
+    else if ((m = /^- 證據等級：\s*([ABC])/.exec(line))) e.grade = m[1];
+    else if ((m = /^- 備註：(.*)$/.exec(line))) e.note = m[1];
   }
   for (const x of out){
     x.cs = (COST_W.money[x.money] ?? 0) + (COST_W.time[x.time] ?? 0) + (COST_W.will[x.will] ?? 0);
-    x.ratio = x.level === '大' ? (x.cs === 0 ? '极高' : (x.cs <= 2 ? '高' : '一般'))
+    x.ratio = x.level === '大' ? (x.cs === 0 ? '極高' : (x.cs <= 2 ? '高' : '一般'))
             : x.level === '中' ? (x.cs === 0 ? '高' : '一般') : '一般';
-    x.dispute = /^争议/.test(x.note);
+    x.dispute = /^爭議/.test(x.note);
   }
   return out;
 }
@@ -304,11 +304,11 @@ const esc = s => s.replace(/[&<>"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',
 let ENTRIES = [];
 const find = (sec, key) => {
   const hit = ENTRIES.find(x => x.sec === sec && x.title.includes(key));
-  if (!hit) console.error(`自查题找不到条目：第 ${sec} 节，标题含「${key}」`);
+  if (!hit) console.error(`自查題找不到條目：第 ${sec} 節，標題含「${key}」`);
   return hit;
 };
 
-/* 答案：只存本机浏览器，取不到也照常能用 */
+/* 答案：只存本機瀏覽器，取不到也照常能用 */
 const STORE = 'selfcheck-v1';
 let ans = {};
 try { ans = JSON.parse(localStorage.getItem(STORE) || '{}'); } catch (e) {}
@@ -323,13 +323,13 @@ function seg(name, opts, cur){
   return `<div class="seg" role="group">` + opts.map(([v, t, cls]) =>
     `<button type="button" data-k="${esc(name)}" data-v="${v}" class="${cls||''}" aria-pressed="${cur === v}">${t}</button>`).join('') + `</div>`;
 }
-const YN = [['y','做到了','yes'],['n','没做到','no'],['s','跳过']];
+const YN = [['y','做到了','yes'],['n','沒做到','no'],['s','跳過']];
 
 function renderAsk(){
   const p = profile();
-  let h = `<h2 style="border-top:0;padding-top:0;margin-top:0">基本情况<small>决定问哪些题</small></h2>`;
+  let h = `<h2 style="border-top:0;padding-top:0;margin-top:0">基本情況<small>決定問哪些題</small></h2>`;
   for (const f of PROFILE) h += `<div class="q"><div class="txt">${f.text}</div>${seg('p:'+f.id, f.opts, ans['p:'+f.id])}</div>`;
-  h += `<div class="q"><div class="txt">想查哪几块<small>点一下取消，不查的整块不出题</small></div><div class="mods">`
+  h += `<div class="q"><div class="txt">想查哪幾塊<small>點一下取消，不查的整塊不出題</small></div><div class="mods">`
     + MODS.map(m => `<button type="button" data-mod="${m}" aria-pressed="${modOn(m)}">${m}</button>`).join('') + `</div></div>`;
   for (const g of GROUPS){
     const qs = g.qs.filter(q => shown(q, p));
@@ -339,27 +339,27 @@ function renderAsk(){
   }
   document.getElementById('qs').innerHTML = h;
   const qs = activeQs(), n = qs.filter(q => ans[qid(q)]).length;
-  document.getElementById('prog').textContent = profileDone() ? `已答 ${n} / ${qs.length} 题` : '先填基本情况';
+  document.getElementById('prog').textContent = profileDone() ? `已答 ${n} / ${qs.length} 題` : '先填基本情況';
 }
 
-const RANK = {'极高':0,'高':1,'一般':2}, LV = {'大':0,'中':1,'小':2}, GR = {A:0,B:1,C:2};
+const RANK = {'極高':0,'高':1,'一般':2}, LV = {'大':0,'中':1,'小':2}, GR = {A:0,B:1,C:2};
 function card(e, also){
-  const r = {'极高':'r3','高':'r2','一般':'r1'}[e.ratio];
-  const lens = e.lens ? `<span class="badge plain">口径 ${e.lens}</span>` : '';
-  const alsoH = also.length ? `<div class="also">相关做法：` + also.map(a =>
+  const r = {'極高':'r3','高':'r2','一般':'r1'}[e.ratio];
+  const lens = e.lens ? `<span class="badge plain">口徑 ${e.lens}</span>` : '';
+  const alsoH = also.length ? `<div class="also">相關做法：` + also.map(a =>
     `<a href="./#e-${a.sec}-${a.n}">${esc(plain(a.title))}</a>`).join('；') + `</div>` : '';
   return `<div class="card" id="c-${e.sec}-${e.n}">
-    <div class="h"><b>${esc(plain(e.title))}</b><a href="./#e-${e.sec}-${e.n}">第 ${e.sec} 节第 ${e.n} 条 →</a></div>
+    <div class="h"><b>${esc(plain(e.title))}</b><a href="./#e-${e.sec}-${e.n}">第 ${e.sec} 節第 ${e.n} 條 →</a></div>
     ${e.human ? `<div class="human">${esc(plain(e.human))}</div>` : ''}
-    <div class="badges"><span class="badge ${r}">性价比 ${e.ratio}</span><span class="badge ${e.grade}">证据 ${e.grade} 级</span><span class="badge plain">收益 ${e.level}</span>${lens}${e.dispute ? '<span class="badge warn">有争议</span>' : ''}</div>
+    <div class="badges"><span class="badge ${r}">性價比 ${e.ratio}</span><span class="badge ${e.grade}">證據 ${e.grade} 級</span><span class="badge plain">收益 ${e.level}</span>${lens}${e.dispute ? '<span class="badge warn">有爭議</span>' : ''}</div>
     <div class="cost">要花的：${esc(plain(e.cost))}</div>${alsoH}
   </div>`;
 }
-/* 没做到的事按「要不要改习惯」分三堆：成本标签里的毅力一项直接决定 */
+/* 沒做到的事按「要不要改習慣」分三堆：成本標籤裡的毅力一項直接決定 */
 const PILES = [
-  {will:'否', name:'一次办完就行', sub:'做一次或者记住就够，不用改习惯'},
-  {will:'些', name:'要改一个习惯', sub:'要忍一点不适，坚持几周就成了习惯'},
-  {will:'是', name:'要长期坚持', sub:'和惯性长期对着干，最难，挑一件慢慢来'},
+  {will:'否', name:'一次辦完就行', sub:'做一次或者記住就夠，不用改習慣'},
+  {will:'些', name:'要改一個習慣', sub:'要忍一點不適，堅持幾週就成了習慣'},
+  {will:'是', name:'要長期堅持', sub:'和慣性長期對著幹，最難，挑一件慢慢來'},
 ];
 const WILL = {'否':0,'些':1,'是':2};
 const byValue = (a, b) => RANK[a.entry.ratio] - RANK[b.entry.ratio] || LV[a.entry.level] - LV[b.entry.level]
@@ -369,57 +369,57 @@ function renderOut(){
   const no = qs.filter(q => ans[qid(q)] === 'n').sort(byValue), yes = qs.filter(q => ans[qid(q)] === 'y');
   const answered = no.length + yes.length;
 
-  // 各块做到的比例，只算答了「做到 / 没做到」的题，跳过的不进分母
+  // 各塊做到的比例，只算答了「做到 / 沒做到」的題，跳過的不進分母
   const groups = GROUPS.map(g => {
     const y = yes.filter(q => q.g === g).length, n = no.filter(q => q.g === g).length;
     return {g, y, t:y + n, pct: y + n ? y / (y + n) : 1};
   }).filter(r => r.t).sort((a, b) => a.pct - b.pct || b.t - a.t);
   document.getElementById('bars').innerHTML = groups.map(r =>
-    `<div class="hbar" title="${esc(r.g.name)}：答了 ${r.t} 题，做到 ${r.y} 项"><span class="nm">${esc(r.g.name)}</span>`
+    `<div class="hbar" title="${esc(r.g.name)}：答了 ${r.t} 題，做到 ${r.y} 項"><span class="nm">${esc(r.g.name)}</span>`
     + `<span class="tr"><span class="fl" style="display:block;width:${(r.pct * 100).toFixed(0)}%"></span></span>`
     + `<span class="v">${r.y} / ${r.t}</span></div>`).join('');
 
   const easy = no.filter(q => q.entry.will === '否'), free = easy.filter(q => q.entry.money === '0');
   const good = no.filter(q => q.entry.ratio !== '一般'), disp = no.filter(q => q.entry.dispute);
   const weak = groups.find(r => r.t >= 2 && r.pct < 1);
-  let v = `你答了 ${answered} 题，做到 <b>${yes.length}</b> 项，没做到 <b>${no.length}</b> 项。`;
-  if (answered > 0 && !no.length) v += '书里这些事你都做到了。';
-  else if (!answered) v += '你还没有回答任何具体题目，返回答题后查看分析。';
-  if (weak) v += `漏得最多的是「${esc(weak.g.name)}」，${weak.t} 项里做到 ${weak.y} 项。`;
-  if (easy.length) v += `没做到的里有 <b>${easy.length}</b> 项一次办完就行，不用改习惯` + (free.length ? `，其中 ${free.length} 项不花钱。` : '。');
-  if (disp.length) v += `有 ${disp.length} 项证据有争议，先看原条目的备注再决定。`;
+  let v = `你答了 ${answered} 題，做到 <b>${yes.length}</b> 項，沒做到 <b>${no.length}</b> 項。`;
+  if (answered > 0 && !no.length) v += '書裡這些事你都做到了。';
+  else if (!answered) v += '你還沒有回答任何具體題目，返回答題後查看分析。';
+  if (weak) v += `漏得最多的是「${esc(weak.g.name)}」，${weak.t} 項裡做到 ${weak.y} 項。`;
+  if (easy.length) v += `沒做到的裡有 <b>${easy.length}</b> 項一次辦完就行，不用改習慣` + (free.length ? `，其中 ${free.length} 項不花錢。` : '。');
+  if (disp.length) v += `有 ${disp.length} 項證據有爭議，先看原條目的備註再決定。`;
   document.getElementById('verdict').innerHTML = v;
 
   document.getElementById('sum').innerHTML =
-    `<div class="tile"><b>${answered ? Math.round(yes.length / answered * 100) : 0}%</b><span>答过的题里做到的比例</span></div>` +
-    `<div class="tile"><b>${no.length}</b><span>还没做到</span></div>` +
-    `<div class="tile r3"><b>${good.length}</b><span>其中性价比高或极高</span></div>` +
-    `<div class="tile r2"><b>${easy.length}</b><span>其中一次办完就行</span></div>`;
+    `<div class="tile"><b>${answered ? Math.round(yes.length / answered * 100) : 0}%</b><span>答過的題裡做到的比例</span></div>` +
+    `<div class="tile"><b>${no.length}</b><span>還沒做到</span></div>` +
+    `<div class="tile r3"><b>${good.length}</b><span>其中性價比高或極高</span></div>` +
+    `<div class="tile r2"><b>${easy.length}</b><span>其中一次辦完就行</span></div>`;
 
-  // 先做这三件：性价比最高的排前；同档里先挑不用改习惯的
+  // 先做這三件：性價比最高的排前；同檔裡先挑不用改習慣的
   const top = no.slice(0, 3);
-  const topTitle = `先做这${top.length === 3 ? '三' : top.length === 2 ? '两' : '一'}件`;
+  const topTitle = `先做這${top.length === 3 ? '三' : top.length === 2 ? '兩' : '一'}件`;
   const alsoOf = q => (q.also || []).map(a => find(a.sec, a.key)).filter(Boolean);
   let h = '';
-  if (top.length) h += `<h2>${topTitle}<small>没做到的里性价比最高的</small></h2><ol class="top3">`
-    + top.map(q => `<li><a href="#c-${q.entry.sec}-${q.entry.n}">${esc(plain(q.entry.title))}</a> <span class="why">性价比${q.entry.ratio}，证据 ${q.entry.grade} 级，${PILES.find(p => p.will === q.entry.will)?.name ?? ''}</span></li>`).join('') + '</ol>'
+  if (top.length) h += `<h2>${topTitle}<small>沒做到的裡性價比最高的</small></h2><ol class="top3">`
+    + top.map(q => `<li><a href="#c-${q.entry.sec}-${q.entry.n}">${esc(plain(q.entry.title))}</a> <span class="why">性價比${q.entry.ratio}，證據 ${q.entry.grade} 級，${PILES.find(p => p.will === q.entry.will)?.name ?? ''}</span></li>`).join('') + '</ol>'
     + `<div class="copy-tools">
-      <button class="btn" id="copy-actions" type="button">复制这几件事</button>
+      <button class="btn" id="copy-actions" type="button">複製這幾件事</button>
       <p class="copy-status" id="copy-status" role="status" aria-live="polite" aria-atomic="true"></p>
       <div id="copy-fallback" hidden>
-        <label for="copy-text">行动清单</label>
+        <label for="copy-text">行動清單</label>
         <textarea id="copy-text" rows="10" readonly aria-describedby="copy-status"></textarea>
       </div>
     </div>`;
   for (const p of PILES){
     const list = no.filter(q => q.entry.will === p.will);
     if (!list.length) continue;
-    h += `<h2>${p.name}（${list.length} 项）<small>${p.sub}</small></h2>` + list.map(q => card(q.entry, alsoOf(q))).join('');
+    h += `<h2>${p.name}（${list.length} 項）<small>${p.sub}</small></h2>` + list.map(q => card(q.entry, alsoOf(q))).join('');
   }
   document.getElementById('todo').innerHTML = h;
-  if (top.length) document.getElementById('copy-text').value = `高性价比人生指南 · ${topTitle}\n\n` + top.map(({entry:e}) =>
+  if (top.length) document.getElementById('copy-text').value = `高性價比人生指南 · ${topTitle}\n\n` + top.map(({entry:e}) =>
     `- [ ] ${plain(e.title)}\n`
-    + `  性价比${e.ratio}，证据 ${e.grade} 级，${PILES.find(p => p.will === e.will)?.name ?? ''}${e.dispute ? '，有争议（先看原条目的备注）' : ''}\n`
+    + `  性價比${e.ratio}，證據 ${e.grade} 級，${PILES.find(p => p.will === e.will)?.name ?? ''}${e.dispute ? '，有爭議（先看原條目的備註）' : ''}\n`
     + `  要花的：${plain(e.cost)}\n`
     + `  https://eternity4719.github.io/HowToLiveBetter/#e-${e.sec}-${e.n}`).join('\n\n');
   document.getElementById('done').innerHTML = yes.map(q =>
@@ -439,15 +439,15 @@ document.getElementById('todo').addEventListener('click', async ev => {
   const text = document.getElementById('copy-text');
   b.disabled = true;
   fallback.hidden = true;
-  status.textContent = '正在复制…';
+  status.textContent = '正在複製…';
   try {
     await navigator.clipboard.writeText(text.value);
-    if (b.isConnected && !document.getElementById('out').hidden) status.textContent = '已复制，可以粘贴到备忘录或待办应用。';
+    if (b.isConnected && !document.getElementById('out').hidden) status.textContent = '已複製，可以粘貼到備忘錄或待辦應用。';
   } catch (err) {
-    // 等待剪贴板权限时可能已经返回改答案，不把焦点拉回旧结果。
+    // 等待剪貼板權限時可能已經返回改答案，不把焦點拉回舊結果。
     if (!b.isConnected || document.getElementById('out').hidden) return;
     fallback.hidden = false;
-    status.textContent = '无法自动复制，请在下方手动复制清单。';
+    status.textContent = '無法自動複製，請在下方手動複製清單。';
     text.focus();
     text.select();
     text.scrollTop = 0;
@@ -464,7 +464,7 @@ document.getElementById('qs').addEventListener('click', ev => {
   save(); renderAsk();
 });
 document.getElementById('go').addEventListener('click', () => {
-  if (!profileDone()) { document.getElementById('prog').textContent = '先把基本情况三题填上'; return; }
+  if (!profileDone()) { document.getElementById('prog').textContent = '先把基本情況三題填上'; return; }
   renderOut(); show('out');
 });
 document.getElementById('back').addEventListener('click', () => show('ask'));
@@ -484,8 +484,8 @@ document.getElementById('reset').addEventListener('click', () => { ans = {}; sav
     renderAsk(); show('ask');
   } catch (err) {
     status.textContent = location.protocol === 'file:'
-      ? '这个页面要通过 http 打开才能读取正文。'
-      : `读取正文失败：${err.message}`;
+      ? '這個頁面要通過 http 打開才能讀取正文。'
+      : `讀取正文失敗：${err.message}`;
   }
 })();
 </script>
