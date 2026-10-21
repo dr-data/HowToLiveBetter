@@ -8,7 +8,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%233451b2'/%3E%3Cpath d='M17 33l10 11 20-24' fill='none' stroke='white' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <script>(function(){try{var s=localStorage.getItem('theme');var d=s?s==='dark':matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark')}catch(e){}})();</script>
 <style>
-/* 配色、字體與 index.html 同一套（VitePress 默認主題） */
+/* 配色、字體與 index.html 同一套（VitePress 預設主題） */
 :root{
   --bg:#ffffff; --bg-alt:#f6f6f7; --bg-soft:#f6f6f7; --bg-mute:#f1f1f2;
   --divider:#e2e2e3;
@@ -198,8 +198,8 @@ const GROUPS = [
   {name:'出門和家裡的安全', mod:'身體', qs:[
     {sec:1, key:'系安全帶', text:'坐車時前排後排都系安全帶'},
     {sec:1, key:'不酒駕', text:'開車不超速、不酒駕', hint:'不開車可以跳過'},
-    {sec:1, key:'戴頭盔', text:'騎電動車、摩托車戴頭盔並扣好', hint:'不騎可以跳過'},
-    {sec:1, key:'電動自行車不推進樓道', text:'電動車不推進樓道，不在家裡充電', hint:'沒有電動車可以跳過'},
+    {sec:1, key:'戴頭盔', text:'騎電動車、電單車戴頭盔並扣好', hint:'不騎可以跳過'},
+    {sec:1, key:'電動單車不推進樓道', text:'電動車不推進樓道，不在家裡充電', hint:'沒有電動車可以跳過'},
     {sec:1, key:'煙霧報警器', text:'家裡裝了煙霧報警器'},
     {sec:1, key:'燃氣軟管', text:'燃氣軟管和灶具到期換過，沒自己改過管道', hint:'家裡不用燃氣可以跳過'},
     {sec:1, key:'野生蘑菇', text:'不採、不買、不吃野生蘑菇'},
@@ -242,7 +242,7 @@ const GROUPS = [
     {sec:3, key:'關掉非必要通知', text:'關掉了手機上不必要的通知，工作時手機放在看不到的地方'},
     {sec:3, key:'固定起牀時間', text:'週末也基本按平時的時間起牀'},
     {sec:3, key:'下午兩點以後', text:'下午兩點以後不喝咖啡、濃茶'},
-    {sec:3, key:'到點就睡', text:'不會為了打遊戲、刷短視頻熬夜'},
+    {sec:3, key:'到點就睡', text:'不會為了打遊戲、刷短片熬夜'},
     {sec:3, key:'睡前一小時', text:'睡前一小時不看手機'},
     {sec:3, key:'別人過得怎麼樣', text:'不會每天刷同齡人的動態'},
     {sec:3, key:'49 小時', text:'每週工作時間基本不超過 50 小時', hint:'沒在上班可以跳過'},
@@ -264,7 +264,7 @@ const GROUPS = [
     {sec:14, key:'二次驗證', text:'郵箱、支付、社交賬號都開了二次驗證'},
     {sec:14, key:'郵箱密碼單獨', text:'郵箱密碼單獨一個，沒在別的網站用過'},
     {sec:14, key:'鎖屏密碼', text:'手機設了鎖屏密碼，SIM 卡設了 PIN 碼'},
-    {sec:8, key:'通訊錄裡的舊號碼', text:'家人視頻或電話要你轉賬，會先掛斷，用通訊錄裡的舊號碼打回去核實'},
+    {sec:8, key:'通訊錄裡的舊號碼', text:'家人影片或電話要你轉賬，會先掛斷，用通訊錄裡的舊號碼打回去核實'},
     {sec:8, key:'不把銀行卡', text:'從不把銀行卡、手機卡、支付賬號借給別人'},
     {sec:8, key:'徵信報告', text:'查過自己的徵信報告'},
     {sec:8, key:'簽字前', text:'簽字前會把紙看完，不在空白紙上籤'},
@@ -421,7 +421,7 @@ function renderOut(){
     `- [ ] ${plain(e.title)}\n`
     + `  性價比${e.ratio}，證據 ${e.grade} 級，${PILES.find(p => p.will === e.will)?.name ?? ''}${e.dispute ? '，有爭議（先看原條目的備註）' : ''}\n`
     + `  要花的：${plain(e.cost)}\n`
-    + `  https://eternity4719.github.io/HowToLiveBetter/#e-${e.sec}-${e.n}`).join('\n\n');
+    + `  https://dr-data.github.io/HowToLiveBetter/#e-${e.sec}-${e.n}`).join('\n\n');
   document.getElementById('done').innerHTML = yes.map(q =>
     `<li><a href="./#e-${q.entry.sec}-${q.entry.n}">${esc(plain(q.entry.title))}</a></li>`).join('');
   document.getElementById('done-h').hidden = !yes.length;
